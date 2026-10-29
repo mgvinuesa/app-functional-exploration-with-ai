@@ -1,0 +1,158 @@
+# observedAt: 2026-10-29T11:32:09Z; rol: usuario autenticado rea_discovery_member_20261029, miembro con permiso de equipo Read & write; URL: /tasks/5; controles de gestión de tarea visibles, sin cambios.
+- generic [active] [ref=f15e1]:
+  - generic [ref=f15e15]:
+    - link "Skip to main content" [ref=f15e16] [cursor=pointer]:
+      - /url: "#main-content"
+    - banner "main navigation" [ref=f15e17]:
+      - link "Vikunja home" [ref=f15e18] [cursor=pointer]:
+        - /url: /
+        - img "Vikunja" [ref=f15e20]
+      - button "Oculta el menú" [expanded] [ref=f15e33] [cursor=pointer]
+      - generic [ref=f15e34]:
+        - button "Abrir la barra de búsqueda/acción rápida" [ref=f15e35] [cursor=pointer]
+        - button "Notificaciones" [ref=f15e39] [cursor=pointer]
+        - button "rea_discovery_member_20261029" [ref=f15e45] [cursor=pointer]
+    - generic [ref=f15e51]:
+      - complementary [ref=f15e53]:
+        - navigation "Main navigation" [ref=f15e54]:
+          - list [ref=f15e55]:
+            - listitem [ref=f15e56]:
+              - link [ref=f15e57] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=f15e61]:
+              - link [ref=f15e62] [cursor=pointer]:
+                - /url: /tasks/by/upcoming
+            - listitem [ref=f15e66]:
+              - link [ref=f15e67] [cursor=pointer]:
+                - /url: /projects
+            - listitem [ref=f15e71]:
+              - link [ref=f15e72] [cursor=pointer]:
+                - /url: /labels
+            - listitem [ref=f15e76]:
+              - link [ref=f15e77] [cursor=pointer]:
+                - /url: /teams
+        - navigation "Saved filters" [ref=f15e81]:
+          - list [ref=f15e82]:
+            - listitem [ref=f15e83]:
+              - generic [ref=f15e84]:
+                - link "My Open Tasks" [ref=f15e85] [cursor=pointer]:
+                  - /url: /projects/-8
+                - button "Mark this project as favorite" [ref=f15e91] [cursor=pointer]
+                - button "Open project settings menu" [ref=f15e96] [cursor=pointer]
+        - navigation "Proyectos" [ref=f15e100]:
+          - list [ref=f15e101]:
+            - listitem [ref=f15e102]:
+              - generic [ref=f15e103]:
+                - link "REA Inventory Project 20261029" [ref=f15e104] [cursor=pointer]:
+                  - /url: /projects/7
+                - button "Mark this project as favorite" [ref=f15e110] [cursor=pointer]
+                - button "Open project settings menu" [ref=f15e115] [cursor=pointer]
+              - list
+            - listitem [ref=f15e119]:
+              - generic [ref=f15e120]:
+                - link "Bandeja de entrada" [ref=f15e121] [cursor=pointer]:
+                  - /url: /projects/8
+                - button "Mark this project as favorite" [ref=f15e127] [cursor=pointer]
+                - button "Open project settings menu" [ref=f15e132] [cursor=pointer]
+              - list
+        - link "Con tecnología de Vikunja" [ref=f15e136] [cursor=pointer]:
+          - /url: https://vikunja.io/?utm_source=powered_by&utm_medium=navigation
+      - main [ref=f15e138]:
+        - generic [ref=f15e140]:
+          - button "Back to project" [ref=f15e141] [cursor=pointer]
+          - generic [ref=f15e144]:
+            - button "#1" [ref=f15e147] [cursor=pointer]
+            - heading "Título" [level=1] [ref=f15e148] [cursor=pointer]: REA Inventory Task 20261029
+          - navigation "Breadcrumb" [ref=f15e149]:
+            - link "REA Inventory Project 20261029" [ref=f15e150] [cursor=pointer]:
+              - /url: /projects/7
+            - text: ">"
+            - 'button "Kanban bucket: To-Do" [ref=f15e152] [cursor=pointer]': To-Do
+          - generic [ref=f15e155]:
+            - generic [ref=f15e156]:
+              - generic [ref=f15e158]:
+                - generic [ref=f15e159]: Fecha Límite
+                - generic [ref=f15e162]:
+                  - button "en 20 horas" [ref=f15e164] [cursor=pointer]
+                  - button "Remove due date" [ref=f15e165] [cursor=pointer]
+              - generic [ref=f15e170]:
+                - heading [level=2] [ref=f15e171]
+                - status [ref=f15e175]
+                - generic [ref=f15e176]:
+                  - generic [ref=f15e177]:
+                    - toolbar "Text formatting" [ref=f15e178]:
+                      - generic [ref=f15e179]:
+                        - button "Encabezado 1" [ref=f15e180] [cursor=pointer]:
+                          - generic [aria-hidden] [ref=f15e184]: "1"
+                        - button "Encabezado 2" [ref=f15e186] [cursor=pointer]:
+                          - generic [aria-hidden] [ref=f15e190]: "2"
+                        - button "Encabezado 3" [ref=f15e192] [cursor=pointer]:
+                          - generic [aria-hidden] [ref=f15e196]: "3"
+                        - button "Negrita" [ref=f15e198] [cursor=pointer]
+                        - button "Cursiva" [ref=f15e203] [cursor=pointer]
+                        - button "Underline" [ref=f15e208] [cursor=pointer]
+                        - button "Tachado" [ref=f15e213] [cursor=pointer]
+                        - button "Código" [ref=f15e218] [cursor=pointer]
+                        - button "Cita" [ref=f15e223] [cursor=pointer]
+                        - button "Bullet list" [ref=f15e228] [cursor=pointer]
+                        - button "Ordered list" [ref=f15e233] [cursor=pointer]
+                        - button "Task list" [ref=f15e238] [cursor=pointer]
+                      - button "More formatting options" [ref=f15e244] [cursor=pointer]
+                    - generic "Enter a description, hit '/' for more options…" [ref=f15e250]:
+                      - paragraph [ref=f15e251]: Enter a description, hit '/' for more options…
+                  - button "Guardar" [disabled]
+              - button "Add your reaction" [ref=f15e253] [cursor=pointer]
+              - generic [ref=f15e257]:
+                - heading "Comentarios" [level=2] [ref=f15e258]
+                - generic [ref=f15e264]:
+                  - figure "rea_discovery_member_20261029's profile image" [ref=f15e265]
+                  - generic [ref=f15e268]:
+                    - generic [ref=f15e271]:
+                      - toolbar "Text formatting" [ref=f15e272]:
+                        - generic [ref=f15e273]:
+                          - button "Encabezado 1" [ref=f15e274] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f15e278]: "1"
+                          - button "Encabezado 2" [ref=f15e280] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f15e284]: "2"
+                          - button "Encabezado 3" [ref=f15e286] [cursor=pointer]:
+                            - generic [aria-hidden] [ref=f15e290]: "3"
+                          - button "Negrita" [ref=f15e292] [cursor=pointer]
+                          - button "Cursiva" [ref=f15e297] [cursor=pointer]
+                          - button "Underline" [ref=f15e302] [cursor=pointer]
+                          - button "Tachado" [ref=f15e307] [cursor=pointer]
+                          - button "Código" [ref=f15e312] [cursor=pointer]
+                          - button "Cita" [ref=f15e317] [cursor=pointer]
+                          - button "Bullet list" [ref=f15e322] [cursor=pointer]
+                          - button "Ordered list" [ref=f15e327] [cursor=pointer]
+                        - button "More formatting options" [ref=f15e333] [cursor=pointer]
+                      - generic "Add your comment, hit '/' for more options…" [ref=f15e339]:
+                        - paragraph [ref=f15e340]: Add your comment, hit '/' for more options…
+                    - generic [ref=f15e341]:
+                      - button "Comentar" [disabled]
+            - generic [ref=f15e342]:
+              - button "Marcar tarea como ¡completada!" [ref=f15e343] [cursor=pointer]
+              - button "Suscribirse" [ref=f15e348] [cursor=pointer]
+              - button "Añadir a Favoritos" [ref=f15e353] [cursor=pointer]
+              - generic [ref=f15e358]: Organization
+              - button "Añadir Etiquetas" [ref=f15e359] [cursor=pointer]
+              - button "Establecer prioridad" [ref=f15e364] [cursor=pointer]
+              - button "Definir Progreso" [ref=f15e369] [cursor=pointer]
+              - button "Definir Color" [ref=f15e374] [cursor=pointer]
+              - generic [ref=f15e379]: Management
+              - button "Asignar al Usuario" [ref=f15e380] [cursor=pointer]
+              - button "Añadir Adjuntos" [ref=f15e385] [cursor=pointer]
+              - button "Añadir una Relación" [ref=f15e390] [cursor=pointer]
+              - button "Mover" [ref=f15e395] [cursor=pointer]
+              - button "Duplicate" [ref=f15e400] [cursor=pointer]
+              - generic [ref=f15e405]: Date and time
+              - button "Establecer Fecha Límite" [ref=f15e406] [cursor=pointer]
+              - button "Establecer Fecha de Inicio" [ref=f15e411] [cursor=pointer]
+              - button "Establecer Fecha de Fin" [ref=f15e416] [cursor=pointer]
+              - button "Definir Recordatorios" [ref=f15e421] [cursor=pointer]
+              - button "Definir Intervalo de Repetición" [ref=f15e426] [cursor=pointer]
+              - button "Eliminar" [ref=f15e431] [cursor=pointer]
+              - paragraph [ref=f15e436]:
+                - time [ref=f15e437]: Creado hace 3 horas por rea_discovery_20261028b
+                - time [ref=f15e438]: Actualizado hace 26 minutos
+        - button "Atajos de Teclado" [ref=f15e439] [cursor=pointer]
+  - status

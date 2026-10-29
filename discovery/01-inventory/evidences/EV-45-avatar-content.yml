@@ -1,0 +1,156 @@
+- generic [ref=f38e1]:
+  - generic [ref=f38e15]:
+    - link "Skip to main content" [ref=f38e16] [cursor=pointer]:
+      - /url: "#main-content"
+    - banner "main navigation" [ref=f38e17]:
+      - link "Vikunja home" [ref=f38e18] [cursor=pointer]:
+        - /url: /
+        - img "Vikunja" [ref=f38e20]
+      - button "Oculta el menú" [expanded] [ref=f38e33] [cursor=pointer]
+      - generic [ref=f38e34]:
+        - button "Abrir la barra de búsqueda/acción rápida" [ref=f38e35] [cursor=pointer]
+        - button "Notificaciones" [ref=f38e39] [cursor=pointer]
+        - button "rea_discovery_20261028b" [ref=f38e44] [cursor=pointer]
+    - generic [ref=f38e50]:
+      - complementary [ref=f38e52]:
+        - navigation "Main navigation" [ref=f38e53]:
+          - list [ref=f38e54]:
+            - listitem [ref=f38e55]:
+              - link [ref=f38e56] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=f38e60]:
+              - link [ref=f38e61] [cursor=pointer]:
+                - /url: /tasks/by/upcoming
+            - listitem [ref=f38e65]:
+              - link [ref=f38e66] [cursor=pointer]:
+                - /url: /projects
+            - listitem [ref=f38e70]:
+              - link [ref=f38e71] [cursor=pointer]:
+                - /url: /labels
+            - listitem [ref=f38e75]:
+              - link [ref=f38e76] [cursor=pointer]:
+                - /url: /teams
+        - navigation "Saved filters" [ref=f38e80]:
+          - list [ref=f38e81]:
+            - listitem [ref=f38e82]:
+              - generic [ref=f38e83]:
+                - link "My Open Tasks" [ref=f38e84] [cursor=pointer]:
+                  - /url: /projects/-5
+                - button "Mark this project as favorite" [ref=f38e90] [cursor=pointer]
+                - button "Open project settings menu" [ref=f38e95] [cursor=pointer]
+            - listitem [ref=f38e99]:
+              - generic [ref=f38e100]:
+                - link "REA Discovery Synthetic Filter 20261028" [ref=f38e101] [cursor=pointer]:
+                  - /url: /projects/-6
+                - button "Mark this project as favorite" [ref=f38e107] [cursor=pointer]
+                - button "Open project settings menu" [ref=f38e112] [cursor=pointer]
+            - listitem [ref=f38e116]:
+              - generic [ref=f38e117]:
+                - link "REA Inventory Filter 20261029" [ref=f38e118] [cursor=pointer]:
+                  - /url: /projects/-7
+                - button "Mark this project as favorite" [ref=f38e124] [cursor=pointer]
+                - button "Open project settings menu" [ref=f38e129] [cursor=pointer]
+        - navigation "Proyectos" [ref=f38e133]:
+          - list [ref=f38e134]:
+            - listitem [ref=f38e135]:
+              - generic [ref=f38e136]:
+                - link "Bandeja de entrada" [ref=f38e137] [cursor=pointer]:
+                  - /url: /projects/4
+                - button "Mark this project as favorite" [ref=f38e143] [cursor=pointer]
+                - button "Open project settings menu" [ref=f38e148] [cursor=pointer]
+              - list
+            - listitem [ref=f38e152]:
+              - generic [ref=f38e153]:
+                - link "REA Discovery Project 20261028" [ref=f38e154] [cursor=pointer]:
+                  - /url: /projects/5
+                - button "Mark this project as favorite" [ref=f38e160] [cursor=pointer]
+                - button "Open project settings menu" [ref=f38e165] [cursor=pointer]
+              - list
+            - listitem [ref=f38e169]:
+              - generic [ref=f38e170]:
+                - link "REA Discovery Synthetic Project 20261028" [ref=f38e171] [cursor=pointer]:
+                  - /url: /projects/6
+                - button "Mark this project as favorite" [ref=f38e177] [cursor=pointer]
+                - button "Open project settings menu" [ref=f38e182] [cursor=pointer]
+              - list
+            - listitem [ref=f38e186]:
+              - generic [ref=f38e187]:
+                - link "REA Inventory Project 20261029" [ref=f38e188] [cursor=pointer]:
+                  - /url: /projects/7
+                - button "Mark this project as favorite" [ref=f38e194] [cursor=pointer]
+                - button "Open project settings menu" [ref=f38e199] [cursor=pointer]
+              - list
+        - link "Con tecnología de Vikunja" [ref=f38e203] [cursor=pointer]:
+          - /url: https://vikunja.io/?utm_source=powered_by&utm_medium=navigation
+      - main [ref=f38e205]:
+        - generic [ref=f38e207]:
+          - navigation [ref=f38e208]:
+            - list [ref=f38e209]:
+              - listitem [ref=f38e210]:
+                - link "Ajustes Generales" [ref=f38e211] [cursor=pointer]:
+                  - /url: /user/settings/general
+              - listitem [ref=f38e212]:
+                - link "Actualiza tu contraseña" [ref=f38e213] [cursor=pointer]:
+                  - /url: /user/settings/password-update
+              - listitem [ref=f38e214]:
+                - link "Actualiza tu Dirección de Correo Electrónico" [ref=f38e215] [cursor=pointer]:
+                  - /url: /user/settings/email-update
+              - listitem [ref=f38e216]:
+                - link "Avatar" [ref=f38e217] [cursor=pointer]:
+                  - /url: /user/settings/avatar
+              - listitem [ref=f38e218]:
+                - link "Autenticación de dos factores" [ref=f38e219] [cursor=pointer]:
+                  - /url: /user/settings/totp
+              - listitem [ref=f38e220]:
+                - link "Exportar tus datos de Vikunja" [ref=f38e221] [cursor=pointer]:
+                  - /url: /user/settings/data-export
+              - listitem [ref=f38e222]:
+                - link "Importar desde otros servicios" [ref=f38e223] [cursor=pointer]:
+                  - /url: /user/settings/migrate
+              - listitem [ref=f38e224]:
+                - link "CalDAV" [ref=f38e225] [cursor=pointer]:
+                  - /url: /user/settings/caldav
+              - listitem [ref=f38e226]:
+                - link "MCP" [ref=f38e227] [cursor=pointer]:
+                  - /url: /user/settings/mcp
+              - listitem [ref=f38e228]:
+                - link "Atom Feed" [ref=f38e229] [cursor=pointer]:
+                  - /url: /user/settings/feeds
+              - listitem [ref=f38e230]:
+                - link "API Tokens" [ref=f38e231] [cursor=pointer]:
+                  - /url: /user/settings/api-tokens
+              - listitem [ref=f38e232]:
+                - link "Sessions" [ref=f38e233] [cursor=pointer]:
+                  - /url: /user/settings/sessions
+              - listitem [ref=f38e234]:
+                - link "Webhook Notifications" [ref=f38e235] [cursor=pointer]:
+                  - /url: /user/settings/webhooks
+              - listitem [ref=f38e236]:
+                - link "Bot Users" [ref=f38e237] [cursor=pointer]:
+                  - /url: /user/settings/bots
+              - listitem [ref=f38e238]:
+                - link "Eliminar tu Cuenta de Vikunja" [ref=f38e239] [cursor=pointer]:
+                  - /url: /user/settings/deletion
+          - generic [ref=f38e241]:
+            - paragraph [ref=f38e243]: Avatar
+            - generic [ref=f38e245]:
+              - generic [ref=f38e246]:
+                - generic [ref=f38e247] [cursor=pointer]:
+                  - radio "Predeterminado" [ref=f38e248]
+                  - text: Predeterminado
+                - generic [ref=f38e249] [cursor=pointer]:
+                  - radio "Iniciales" [checked] [ref=f38e250]
+                  - text: Iniciales
+                - generic [ref=f38e251] [cursor=pointer]:
+                  - radio "Gravatar" [ref=f38e252]
+                  - text: Gravatar
+                - generic [ref=f38e253] [cursor=pointer]:
+                  - radio "Marble" [ref=f38e254]
+                  - text: Marble
+                - generic [ref=f38e255] [cursor=pointer]:
+                  - radio "Subir" [ref=f38e256]
+                  - text: Subir
+              - button "Guardar" [ref=f38e258] [cursor=pointer]
+        - button "Atajos de Teclado" [ref=f38e260] [cursor=pointer]
+    - paragraph [ref=f38e14]: Vikunja está cargando…
+  - status

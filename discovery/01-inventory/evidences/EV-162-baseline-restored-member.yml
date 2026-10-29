@@ -1,0 +1,105 @@
+# observedAt: 2026-10-29T11:34:31Z; rol: usuario autenticado rea_discovery_member_20261029; URL: /projects/7/45; proyecto de nuevo accesible tras restaurar permiso directo Read & write.
+- generic [ref=f18e1]:
+  - generic [ref=f18e2]:
+    - link "Skip to main content" [ref=f18e3] [cursor=pointer]:
+      - /url: "#main-content"
+    - banner "main navigation" [ref=f18e4]:
+      - link "Vikunja home" [ref=f18e5] [cursor=pointer]:
+        - /url: /
+        - img "Vikunja" [ref=f18e7]
+      - button "Oculta el menú" [expanded] [ref=f18e20] [cursor=pointer]
+      - generic [ref=f18e21]:
+        - generic [ref=f18e22]: REA Inventory Project 20261029
+        - button "Open project settings menu" [ref=f18e24] [cursor=pointer]
+      - generic [ref=f18e28]:
+        - button "Abrir la barra de búsqueda/acción rápida" [ref=f18e29] [cursor=pointer]
+        - button "Notificaciones" [ref=f18e33] [cursor=pointer]
+        - button "rea_discovery_member_20261029" [ref=f18e39] [cursor=pointer]
+    - generic [ref=f18e45]:
+      - complementary [ref=f18e47]:
+        - navigation "Main navigation" [ref=f18e48]:
+          - list [ref=f18e49]:
+            - listitem [ref=f18e50]:
+              - link [ref=f18e51] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=f18e55]:
+              - link [ref=f18e56] [cursor=pointer]:
+                - /url: /tasks/by/upcoming
+            - listitem [ref=f18e60]:
+              - link [ref=f18e61] [cursor=pointer]:
+                - /url: /projects
+            - listitem [ref=f18e65]:
+              - link [ref=f18e66] [cursor=pointer]:
+                - /url: /labels
+            - listitem [ref=f18e70]:
+              - link [ref=f18e71] [cursor=pointer]:
+                - /url: /teams
+        - navigation "Saved filters" [ref=f18e75]:
+          - list [ref=f18e76]:
+            - listitem [ref=f18e77]:
+              - generic [ref=f18e78]:
+                - link "My Open Tasks" [ref=f18e79] [cursor=pointer]:
+                  - /url: /projects/-8
+                - button "Mark this project as favorite" [ref=f18e85] [cursor=pointer]
+                - button "Open project settings menu" [ref=f18e90] [cursor=pointer]
+        - navigation "Proyectos" [ref=f18e94]:
+          - list [ref=f18e95]:
+            - listitem [ref=f18e96]:
+              - generic [ref=f18e97]:
+                - link "REA Inventory Project 20261029" [ref=f18e98] [cursor=pointer]:
+                  - /url: /projects/7
+                - button "Mark this project as favorite" [ref=f18e104] [cursor=pointer]
+                - button "Open project settings menu" [ref=f18e109] [cursor=pointer]
+              - list
+            - listitem [ref=f18e113]:
+              - generic [ref=f18e114]:
+                - link "Bandeja de entrada" [ref=f18e115] [cursor=pointer]:
+                  - /url: /projects/8
+                - button "Mark this project as favorite" [ref=f18e121] [cursor=pointer]
+                - button "Open project settings menu" [ref=f18e126] [cursor=pointer]
+              - list
+        - link "Con tecnología de Vikunja" [ref=f18e130] [cursor=pointer]:
+          - /url: https://vikunja.io/?utm_source=powered_by&utm_medium=navigation
+      - main [ref=f18e132]:
+        - generic [ref=f18e133]:
+          - generic [ref=f18e134]:
+            - generic [ref=f18e135]:
+              - link "Lista" [ref=f18e136] [cursor=pointer]:
+                - /url: /projects/7/45
+              - link "Gantt" [ref=f18e137] [cursor=pointer]:
+                - /url: /projects/7/46
+              - link "Tabla" [ref=f18e138] [cursor=pointer]:
+                - /url: /projects/7/47
+              - link "Kanban" [ref=f18e139] [cursor=pointer]:
+                - /url: /projects/7/48
+            - generic [ref=f18e140]:
+              - button "Sort" [ref=f18e141] [cursor=pointer]
+              - button "Filtros" [ref=f18e146] [cursor=pointer]
+          - generic [ref=f18e154]:
+            - generic [ref=f18e156]:
+              - paragraph [ref=f18e157]:
+                - generic [ref=f18e158]: Add a task…
+                - textbox "Add a task…" [active] [ref=f18e162]
+                - button "Usar prefijos mágicos para definir fechas de vencimiento, asignados y otras propiedades de tareas." [ref=f18e163] [cursor=pointer]
+              - paragraph [ref=f18e166]:
+                - button "Añadir" [disabled]
+            - list [ref=f18e167]:
+              - generic [ref=f18e169]:
+                - generic [ref=f18e172] [cursor=pointer]:
+                  - checkbox "Mark 'REA Member Write Task 20261029' as done" [ref=f18e173]
+                  - img "Checkbox" [ref=f18e174]
+                - link "REA Member Write Task 20261029" [ref=f18e180] [cursor=pointer]:
+                  - /url: /tasks/6
+                - button "Añadir a Favoritos" [ref=f18e181] [cursor=pointer]
+              - generic [ref=f18e186]:
+                - generic [ref=f18e189] [cursor=pointer]:
+                  - checkbox "Mark 'REA Inventory Task 20261029' as done" [ref=f18e190]
+                  - img "Checkbox" [ref=f18e191]
+                - generic [ref=f18e194]:
+                  - link "REA Inventory Task 20261029" [ref=f18e197] [cursor=pointer]:
+                    - /url: /tasks/5
+                  - button [ref=f18e198] [cursor=pointer]:
+                    - time [ref=f18e199]: – Vence en 20 horas
+                - button "Añadir a Favoritos" [ref=f18e200] [cursor=pointer]
+        - button "Atajos de Teclado" [ref=f18e204] [cursor=pointer]
+  - status

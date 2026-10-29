@@ -1,0 +1,62 @@
+# observedAt: 2026-10-29T11:20:43Z; rol: usuario autenticado rea_discovery_member_20261029, sin participación; URL directa /projects/9/61; la UI muestra el aviso de falta de permiso.
+- generic [active] [ref=f11e1]:
+  - generic [ref=f11e2]:
+    - link "Skip to main content" [ref=f11e3] [cursor=pointer]:
+      - /url: "#main-content"
+    - banner "main navigation" [ref=f11e4]:
+      - link "Vikunja home" [ref=f11e5] [cursor=pointer]:
+        - /url: /
+        - img "Vikunja" [ref=f11e7]
+      - button "Oculta el menú" [expanded] [ref=f11e20] [cursor=pointer]
+      - generic [ref=f11e21]:
+        - button "Abrir la barra de búsqueda/acción rápida" [ref=f11e22] [cursor=pointer]
+        - button "Notificaciones" [ref=f11e26] [cursor=pointer]
+        - button "rea_discovery_member_20261029" [ref=f11e32] [cursor=pointer]
+    - generic [ref=f11e38]:
+      - complementary [ref=f11e40]:
+        - navigation "Main navigation" [ref=f11e41]:
+          - list [ref=f11e42]:
+            - listitem [ref=f11e43]:
+              - link [ref=f11e44] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=f11e48]:
+              - link [ref=f11e49] [cursor=pointer]:
+                - /url: /tasks/by/upcoming
+            - listitem [ref=f11e53]:
+              - link [ref=f11e54] [cursor=pointer]:
+                - /url: /projects
+            - listitem [ref=f11e58]:
+              - link [ref=f11e59] [cursor=pointer]:
+                - /url: /labels
+            - listitem [ref=f11e63]:
+              - link [ref=f11e64] [cursor=pointer]:
+                - /url: /teams
+        - navigation "Saved filters" [ref=f11e68]:
+          - list [ref=f11e69]:
+            - listitem [ref=f11e70]:
+              - generic [ref=f11e71]:
+                - link "My Open Tasks" [ref=f11e72] [cursor=pointer]:
+                  - /url: /projects/-8
+                - button "Mark this project as favorite" [ref=f11e78] [cursor=pointer]
+                - button "Open project settings menu" [ref=f11e83] [cursor=pointer]
+        - navigation "Proyectos" [ref=f11e87]:
+          - list [ref=f11e88]:
+            - listitem [ref=f11e89]:
+              - link "REA Inventory Project 20261029" [ref=f11e91] [cursor=pointer]:
+                - /url: /projects/7
+              - list
+            - listitem [ref=f11e94]:
+              - generic [ref=f11e95]:
+                - link "Bandeja de entrada" [ref=f11e96] [cursor=pointer]:
+                  - /url: /projects/8
+                - button "Mark this project as favorite" [ref=f11e102] [cursor=pointer]
+                - button "Open project settings menu" [ref=f11e107] [cursor=pointer]
+              - list
+        - link "Con tecnología de Vikunja" [ref=f11e111] [cursor=pointer]:
+          - /url: https://vikunja.io/?utm_source=powered_by&utm_medium=navigation
+      - main [ref=f11e113]:
+        - button "Atajos de Teclado" [ref=f11e114] [cursor=pointer]
+  - status [ref=f11e118]:
+    - generic [ref=f11e121]:
+      - generic [ref=f11e122]: Error
+      - generic [ref=f11e123]: You don't have the permission to see this

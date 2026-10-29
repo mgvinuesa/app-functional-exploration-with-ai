@@ -1,0 +1,153 @@
+- generic [ref=f52e1]:
+  - generic [ref=f52e15]:
+    - link "Skip to main content" [ref=f52e16] [cursor=pointer]:
+      - /url: "#main-content"
+    - banner "main navigation" [ref=f52e17]:
+      - link "Vikunja home" [ref=f52e18] [cursor=pointer]:
+        - /url: /
+        - img "Vikunja" [ref=f52e20]
+      - button "Oculta el menú" [expanded] [ref=f52e33] [cursor=pointer]
+      - generic [ref=f52e34]:
+        - button "Abrir la barra de búsqueda/acción rápida" [ref=f52e35] [cursor=pointer]
+        - button "Notificaciones" [ref=f52e39] [cursor=pointer]
+        - button "rea_discovery_20261028b" [ref=f52e44] [cursor=pointer]
+    - generic [ref=f52e50]:
+      - complementary [ref=f52e52]:
+        - navigation "Main navigation" [ref=f52e53]:
+          - list [ref=f52e54]:
+            - listitem [ref=f52e55]:
+              - link [ref=f52e56] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=f52e60]:
+              - link [ref=f52e61] [cursor=pointer]:
+                - /url: /tasks/by/upcoming
+            - listitem [ref=f52e65]:
+              - link [ref=f52e66] [cursor=pointer]:
+                - /url: /projects
+            - listitem [ref=f52e70]:
+              - link [ref=f52e71] [cursor=pointer]:
+                - /url: /labels
+            - listitem [ref=f52e75]:
+              - link [ref=f52e76] [cursor=pointer]:
+                - /url: /teams
+        - navigation "Saved filters" [ref=f52e80]:
+          - list [ref=f52e81]:
+            - listitem [ref=f52e82]:
+              - generic [ref=f52e83]:
+                - link "My Open Tasks" [ref=f52e84] [cursor=pointer]:
+                  - /url: /projects/-5
+                - button "Mark this project as favorite" [ref=f52e90] [cursor=pointer]
+                - button "Open project settings menu" [ref=f52e95] [cursor=pointer]
+            - listitem [ref=f52e99]:
+              - generic [ref=f52e100]:
+                - link "REA Discovery Synthetic Filter 20261028" [ref=f52e101] [cursor=pointer]:
+                  - /url: /projects/-6
+                - button "Mark this project as favorite" [ref=f52e107] [cursor=pointer]
+                - button "Open project settings menu" [ref=f52e112] [cursor=pointer]
+            - listitem [ref=f52e116]:
+              - generic [ref=f52e117]:
+                - link "REA Inventory Filter 20261029" [ref=f52e118] [cursor=pointer]:
+                  - /url: /projects/-7
+                - button "Mark this project as favorite" [ref=f52e124] [cursor=pointer]
+                - button "Open project settings menu" [ref=f52e129] [cursor=pointer]
+        - navigation "Proyectos" [ref=f52e133]:
+          - list [ref=f52e134]:
+            - listitem [ref=f52e135]:
+              - generic [ref=f52e136]:
+                - link "Bandeja de entrada" [ref=f52e137] [cursor=pointer]:
+                  - /url: /projects/4
+                - button "Mark this project as favorite" [ref=f52e143] [cursor=pointer]
+                - button "Open project settings menu" [ref=f52e148] [cursor=pointer]
+              - list
+            - listitem [ref=f52e152]:
+              - generic [ref=f52e153]:
+                - link "REA Discovery Project 20261028" [ref=f52e154] [cursor=pointer]:
+                  - /url: /projects/5
+                - button "Mark this project as favorite" [ref=f52e160] [cursor=pointer]
+                - button "Open project settings menu" [ref=f52e165] [cursor=pointer]
+              - list
+            - listitem [ref=f52e169]:
+              - generic [ref=f52e170]:
+                - link "REA Discovery Synthetic Project 20261028" [ref=f52e171] [cursor=pointer]:
+                  - /url: /projects/6
+                - button "Mark this project as favorite" [ref=f52e177] [cursor=pointer]
+                - button "Open project settings menu" [ref=f52e182] [cursor=pointer]
+              - list
+            - listitem [ref=f52e186]:
+              - generic [ref=f52e187]:
+                - link "REA Inventory Project 20261029" [ref=f52e188] [cursor=pointer]:
+                  - /url: /projects/7
+                - button "Mark this project as favorite" [ref=f52e194] [cursor=pointer]
+                - button "Open project settings menu" [ref=f52e199] [cursor=pointer]
+              - list
+        - link "Con tecnología de Vikunja" [ref=f52e203] [cursor=pointer]:
+          - /url: https://vikunja.io/?utm_source=powered_by&utm_medium=navigation
+      - main [ref=f52e205]:
+        - button "Atajos de Teclado" [ref=f52e206] [cursor=pointer]
+  - dialog "Edit views" [ref=f52e210]:
+    - generic [ref=f52e211]:
+      - button "Close dialog" [ref=f52e212] [cursor=pointer]
+      - generic [ref=f52e216]:
+        - banner [ref=f52e217]:
+          - paragraph [ref=f52e218]: Edit views
+        - generic [ref=f52e221]:
+          - generic [ref=f52e321]:
+            - generic [ref=f52e322]:
+              - generic [ref=f52e323]: Title
+              - textbox "Title Title" [ref=f52e325]:
+                - /placeholder: ej. Lorem Ipsum
+            - generic [ref=f52e326]:
+              - generic [ref=f52e327]: Kind
+              - combobox "Kind" [ref=f52e330] [cursor=pointer]:
+                - option "Lista" [selected]
+                - option "Gantt"
+                - option "Tabla"
+                - option "Kanban"
+            - generic [ref=f52e331]: Filter
+            - textbox "Filter query" [ref=f52e335]:
+              - paragraph [ref=f52e336]: done = false
+            - button "How does this work?" [ref=f52e338] [cursor=pointer]
+            - generic [ref=f52e341] [cursor=pointer]:
+              - checkbox "Checkbox Incluye tareas que no tienen un valor establecido" [checked] [ref=f52e342]
+              - img "Checkbox" [ref=f52e343]
+              - generic [ref=f52e346]: Incluye tareas que no tienen un valor establecido
+          - generic [ref=f52e222]:
+            - button "Create view" [disabled]
+          - table [ref=f52e226]:
+            - rowgroup [ref=f52e227]:
+              - row "Title Kind Actions" [ref=f52e228]:
+                - columnheader "Title" [ref=f52e229]
+                - columnheader "Kind" [ref=f52e230]
+                - columnheader "Actions" [ref=f52e231]
+            - rowgroup [ref=f52e232]:
+              - row "Title List Kind Lista Filter done = false How does this work? Checkbox Incluye tareas que no tienen un valor establecido Cancelar Guardar" [ref=f52e288]:
+                - cell "Title List Kind Lista Filter done = false How does this work? Checkbox Incluye tareas que no tienen un valor establecido Cancelar Guardar" [ref=f52e289]:
+                  - generic [ref=f52e290]:
+                    - generic [ref=f52e291]
+                    - generic [ref=f52e295]
+                    - generic [ref=f52e300]: Filter
+                    - textbox "Filter query" [ref=f52e304]
+                    - button "How does this work?" [ref=f52e307] [cursor=pointer]
+                    - generic [ref=f52e310] [cursor=pointer]
+                    - generic [ref=f52e316]
+              - row "Gantt gantt Delete this view Edit this view" [ref=f52e246]:
+                - cell "Gantt" [ref=f52e247]
+                - cell "gantt" [ref=f52e248]
+                - cell "Delete this view Edit this view" [ref=f52e249]:
+                  - button "Delete this view" [ref=f52e250] [cursor=pointer]
+                  - button "Edit this view" [ref=f52e253] [cursor=pointer]
+              - row "Table table Delete this view Edit this view" [ref=f52e259]:
+                - cell "Table" [ref=f52e260]
+                - cell "table" [ref=f52e261]
+                - cell "Delete this view Edit this view" [ref=f52e262]:
+                  - button "Delete this view" [ref=f52e263] [cursor=pointer]
+                  - button "Edit this view" [ref=f52e266] [cursor=pointer]
+              - row "Kanban kanban Delete this view Edit this view" [ref=f52e272]:
+                - cell "Kanban" [ref=f52e273]
+                - cell "kanban" [ref=f52e274]
+                - cell "Delete this view Edit this view" [ref=f52e275]:
+                  - button "Delete this view" [ref=f52e276] [cursor=pointer]
+                  - button "Edit this view" [ref=f52e279] [cursor=pointer]
+        - contentinfo [ref=f52e285]:
+          - button "Cancelar" [ref=f52e286] [cursor=pointer]
+    - status

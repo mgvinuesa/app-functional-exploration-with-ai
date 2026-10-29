@@ -1,0 +1,142 @@
+- generic [ref=f42e1]:
+  - generic [ref=f42e15]:
+    - link "Skip to main content" [ref=f42e16] [cursor=pointer]:
+      - /url: "#main-content"
+    - banner "main navigation" [ref=f42e17]:
+      - link "Vikunja home" [ref=f42e18] [cursor=pointer]:
+        - /url: /
+        - img "Vikunja" [ref=f42e20]
+      - button "Oculta el menú" [expanded] [ref=f42e33] [cursor=pointer]
+      - generic [ref=f42e34]:
+        - button "Abrir la barra de búsqueda/acción rápida" [ref=f42e35] [cursor=pointer]
+        - button "Notificaciones" [ref=f42e39] [cursor=pointer]
+        - button "rea_discovery_20261028b" [ref=f42e44] [cursor=pointer]
+    - generic [ref=f42e50]:
+      - complementary [ref=f42e52]:
+        - navigation "Main navigation" [ref=f42e53]:
+          - list [ref=f42e54]:
+            - listitem [ref=f42e55]:
+              - link [ref=f42e56] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=f42e60]:
+              - link [ref=f42e61] [cursor=pointer]:
+                - /url: /tasks/by/upcoming
+            - listitem [ref=f42e65]:
+              - link [ref=f42e66] [cursor=pointer]:
+                - /url: /projects
+            - listitem [ref=f42e70]:
+              - link [ref=f42e71] [cursor=pointer]:
+                - /url: /labels
+            - listitem [ref=f42e75]:
+              - link [ref=f42e76] [cursor=pointer]:
+                - /url: /teams
+        - navigation "Saved filters" [ref=f42e80]:
+          - list [ref=f42e81]:
+            - listitem [ref=f42e82]:
+              - generic [ref=f42e83]:
+                - link "My Open Tasks" [ref=f42e84] [cursor=pointer]:
+                  - /url: /projects/-5
+                - button "Mark this project as favorite" [ref=f42e90] [cursor=pointer]
+                - button "Open project settings menu" [ref=f42e95] [cursor=pointer]
+            - listitem [ref=f42e99]:
+              - generic [ref=f42e100]:
+                - link "REA Discovery Synthetic Filter 20261028" [ref=f42e101] [cursor=pointer]:
+                  - /url: /projects/-6
+                - button "Mark this project as favorite" [ref=f42e107] [cursor=pointer]
+                - button "Open project settings menu" [ref=f42e112] [cursor=pointer]
+            - listitem [ref=f42e116]:
+              - generic [ref=f42e117]:
+                - link "REA Inventory Filter 20261029" [ref=f42e118] [cursor=pointer]:
+                  - /url: /projects/-7
+                - button "Mark this project as favorite" [ref=f42e124] [cursor=pointer]
+                - button "Open project settings menu" [ref=f42e129] [cursor=pointer]
+        - navigation "Proyectos" [ref=f42e133]:
+          - list [ref=f42e134]:
+            - listitem [ref=f42e135]:
+              - generic [ref=f42e136]:
+                - link "Bandeja de entrada" [ref=f42e137] [cursor=pointer]:
+                  - /url: /projects/4
+                - button "Mark this project as favorite" [ref=f42e143] [cursor=pointer]
+                - button "Open project settings menu" [ref=f42e148] [cursor=pointer]
+              - list
+            - listitem [ref=f42e152]:
+              - generic [ref=f42e153]:
+                - link "REA Discovery Project 20261028" [ref=f42e154] [cursor=pointer]:
+                  - /url: /projects/5
+                - button "Mark this project as favorite" [ref=f42e160] [cursor=pointer]
+                - button "Open project settings menu" [ref=f42e165] [cursor=pointer]
+              - list
+            - listitem [ref=f42e169]:
+              - generic [ref=f42e170]:
+                - link "REA Discovery Synthetic Project 20261028" [ref=f42e171] [cursor=pointer]:
+                  - /url: /projects/6
+                - button "Mark this project as favorite" [ref=f42e177] [cursor=pointer]
+                - button "Open project settings menu" [ref=f42e182] [cursor=pointer]
+              - list
+            - listitem [ref=f42e186]:
+              - generic [ref=f42e187]:
+                - link "REA Inventory Project 20261029" [ref=f42e188] [cursor=pointer]:
+                  - /url: /projects/7
+                - button "Mark this project as favorite" [ref=f42e194] [cursor=pointer]
+                - button "Open project settings menu" [ref=f42e199] [cursor=pointer]
+              - list
+        - link "Con tecnología de Vikunja" [ref=f42e203] [cursor=pointer]:
+          - /url: https://vikunja.io/?utm_source=powered_by&utm_medium=navigation
+      - main [ref=f42e205]:
+        - generic [ref=f42e207]:
+          - navigation [ref=f42e208]:
+            - list [ref=f42e209]:
+              - listitem [ref=f42e210]:
+                - link "Ajustes Generales" [ref=f42e211] [cursor=pointer]:
+                  - /url: /user/settings/general
+              - listitem [ref=f42e212]:
+                - link "Actualiza tu contraseña" [ref=f42e213] [cursor=pointer]:
+                  - /url: /user/settings/password-update
+              - listitem [ref=f42e214]:
+                - link "Actualiza tu Dirección de Correo Electrónico" [ref=f42e215] [cursor=pointer]:
+                  - /url: /user/settings/email-update
+              - listitem [ref=f42e216]:
+                - link "Avatar" [ref=f42e217] [cursor=pointer]:
+                  - /url: /user/settings/avatar
+              - listitem [ref=f42e218]:
+                - link "Autenticación de dos factores" [ref=f42e219] [cursor=pointer]:
+                  - /url: /user/settings/totp
+              - listitem [ref=f42e220]:
+                - link "Exportar tus datos de Vikunja" [ref=f42e221] [cursor=pointer]:
+                  - /url: /user/settings/data-export
+              - listitem [ref=f42e222]:
+                - link "Importar desde otros servicios" [ref=f42e223] [cursor=pointer]:
+                  - /url: /user/settings/migrate
+              - listitem [ref=f42e224]:
+                - link "CalDAV" [ref=f42e225] [cursor=pointer]:
+                  - /url: /user/settings/caldav
+              - listitem [ref=f42e226]:
+                - link "MCP" [ref=f42e227] [cursor=pointer]:
+                  - /url: /user/settings/mcp
+              - listitem [ref=f42e228]:
+                - link "Atom Feed" [ref=f42e229] [cursor=pointer]:
+                  - /url: /user/settings/feeds
+              - listitem [ref=f42e230]:
+                - link "API Tokens" [ref=f42e231] [cursor=pointer]:
+                  - /url: /user/settings/api-tokens
+              - listitem [ref=f42e232]:
+                - link "Sessions" [ref=f42e233] [cursor=pointer]:
+                  - /url: /user/settings/sessions
+              - listitem [ref=f42e234]:
+                - link "Webhook Notifications" [ref=f42e235] [cursor=pointer]:
+                  - /url: /user/settings/webhooks
+              - listitem [ref=f42e236]:
+                - link "Bot Users" [ref=f42e237] [cursor=pointer]:
+                  - /url: /user/settings/bots
+              - listitem [ref=f42e238]:
+                - link "Eliminar tu Cuenta de Vikunja" [ref=f42e239] [cursor=pointer]:
+                  - /url: /user/settings/deletion
+          - generic [ref=f42e241]:
+            - heading "Importar tus datos desde CSV a Vikunja" [level=1] [ref=f42e242]
+            - paragraph [ref=f42e243]: Import tasks from a CSV file with custom column mapping.
+            - generic [ref=f42e244]:
+              - paragraph [ref=f42e245]: Select a CSV file to import. The file should contain task data with headers in the first row.
+              - button "Select CSV file" [ref=f42e246] [cursor=pointer]
+        - button "Atajos de Teclado" [ref=f42e248] [cursor=pointer]
+    - paragraph [ref=f42e14]: Vikunja está cargando…
+  - status

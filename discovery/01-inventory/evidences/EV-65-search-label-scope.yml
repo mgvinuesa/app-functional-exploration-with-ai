@@ -1,0 +1,163 @@
+- generic [ref=f48e1]:
+  - generic [ref=f48e15]:
+    - link "Skip to main content" [ref=f48e16] [cursor=pointer]:
+      - /url: "#main-content"
+    - banner "main navigation" [ref=f48e17]:
+      - link "Vikunja home" [ref=f48e18] [cursor=pointer]:
+        - /url: /
+        - img "Vikunja" [ref=f48e20]
+      - button "Oculta el menú" [expanded] [ref=f48e33] [cursor=pointer]
+      - generic [ref=f48e34]:
+        - button "Abrir la barra de búsqueda/acción rápida" [ref=f48e35] [cursor=pointer]
+        - button "Notificaciones" [ref=f48e39] [cursor=pointer]
+        - button "rea_discovery_20261028b" [ref=f48e44] [cursor=pointer]
+    - generic [ref=f48e50]:
+      - complementary [ref=f48e52]:
+        - navigation "Main navigation" [ref=f48e53]:
+          - list [ref=f48e54]:
+            - listitem [ref=f48e55]:
+              - link [ref=f48e56] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=f48e60]:
+              - link [ref=f48e61] [cursor=pointer]:
+                - /url: /tasks/by/upcoming
+            - listitem [ref=f48e65]:
+              - link [ref=f48e66] [cursor=pointer]:
+                - /url: /projects
+            - listitem [ref=f48e70]:
+              - link [ref=f48e71] [cursor=pointer]:
+                - /url: /labels
+            - listitem [ref=f48e75]:
+              - link [ref=f48e76] [cursor=pointer]:
+                - /url: /teams
+        - navigation "Saved filters" [ref=f48e80]:
+          - list [ref=f48e81]:
+            - listitem [ref=f48e82]:
+              - generic [ref=f48e83]:
+                - link "My Open Tasks" [ref=f48e84] [cursor=pointer]:
+                  - /url: /projects/-5
+                - button "Mark this project as favorite" [ref=f48e90] [cursor=pointer]
+                - button "Open project settings menu" [ref=f48e95] [cursor=pointer]
+            - listitem [ref=f48e99]:
+              - generic [ref=f48e100]:
+                - link "REA Discovery Synthetic Filter 20261028" [ref=f48e101] [cursor=pointer]:
+                  - /url: /projects/-6
+                - button "Mark this project as favorite" [ref=f48e107] [cursor=pointer]
+                - button "Open project settings menu" [ref=f48e112] [cursor=pointer]
+            - listitem [ref=f48e116]:
+              - generic [ref=f48e117]:
+                - link "REA Inventory Filter 20261029" [ref=f48e118] [cursor=pointer]:
+                  - /url: /projects/-7
+                - button "Mark this project as favorite" [ref=f48e124] [cursor=pointer]
+                - button "Open project settings menu" [ref=f48e129] [cursor=pointer]
+        - navigation "Proyectos" [ref=f48e133]:
+          - list [ref=f48e134]:
+            - listitem [ref=f48e135]:
+              - generic [ref=f48e136]:
+                - link "Bandeja de entrada" [ref=f48e137] [cursor=pointer]:
+                  - /url: /projects/4
+                - button "Mark this project as favorite" [ref=f48e143] [cursor=pointer]
+                - button "Open project settings menu" [ref=f48e148] [cursor=pointer]
+              - list
+            - listitem [ref=f48e152]:
+              - generic [ref=f48e153]:
+                - link "REA Discovery Project 20261028" [ref=f48e154] [cursor=pointer]:
+                  - /url: /projects/5
+                - button "Mark this project as favorite" [ref=f48e160] [cursor=pointer]
+                - button "Open project settings menu" [ref=f48e165] [cursor=pointer]
+              - list
+            - listitem [ref=f48e169]:
+              - generic [ref=f48e170]:
+                - link "REA Discovery Synthetic Project 20261028" [ref=f48e171] [cursor=pointer]:
+                  - /url: /projects/6
+                - button "Mark this project as favorite" [ref=f48e177] [cursor=pointer]
+                - button "Open project settings menu" [ref=f48e182] [cursor=pointer]
+              - list
+            - listitem [ref=f48e186]:
+              - generic [ref=f48e187]:
+                - link "REA Inventory Project 20261029" [ref=f48e188] [cursor=pointer]:
+                  - /url: /projects/7
+                - button "Mark this project as favorite" [ref=f48e194] [cursor=pointer]
+                - button "Open project settings menu" [ref=f48e199] [cursor=pointer]
+              - list
+        - link "Con tecnología de Vikunja" [ref=f48e203] [cursor=pointer]:
+          - /url: https://vikunja.io/?utm_source=powered_by&utm_medium=navigation
+      - main [ref=f48e205]:
+        - generic [ref=f48e206]:
+          - heading "Welcome back, rea_discovery_20261028b" [level=1] [ref=f48e207]
+          - generic [ref=f48e209]:
+            - paragraph [ref=f48e210]:
+              - generic [ref=f48e211]: Add a task…
+              - textbox "Add a task…" [ref=f48e215]
+              - button "Usar prefijos mágicos para definir fechas de vencimiento, asignados y otras propiedades de tareas." [ref=f48e216] [cursor=pointer]
+            - paragraph [ref=f48e219]:
+              - button "Añadir" [disabled]
+          - generic [ref=f48e220]:
+            - heading "Visto por última vez" [level=2] [ref=f48e221]
+            - list [ref=f48e222]:
+              - listitem [ref=f48e223]:
+                - generic [ref=f48e224]:
+                  - generic [aria-hidden] [ref=f48e226]: REA Inventory Project 20261029
+                  - link "REA Inventory Project 20261029" [ref=f48e227] [cursor=pointer]:
+                    - /url: /projects/7
+                  - generic [ref=f48e228]
+              - listitem [ref=f48e237]:
+                - generic [ref=f48e238]:
+                  - generic [aria-hidden] [ref=f48e240]: REA Inventory Filter 20261029
+                  - link "REA Inventory Filter 20261029" [ref=f48e244] [cursor=pointer]:
+                    - /url: /projects/-7
+                  - button "Open project settings menu" [ref=f48e247] [cursor=pointer]
+              - listitem [ref=f48e251]:
+                - generic [ref=f48e252]:
+                  - generic [aria-hidden] [ref=f48e254]: REA Discovery Synthetic Filter 20261028
+                  - link "REA Discovery Synthetic Filter 20261028" [ref=f48e258] [cursor=pointer]:
+                    - /url: /projects/-6
+                  - button "Open project settings menu" [ref=f48e261] [cursor=pointer]
+              - listitem [ref=f48e265]:
+                - generic [ref=f48e266]:
+                  - generic [aria-hidden] [ref=f48e268]: REA Discovery Project 20261028
+                  - link "REA Discovery Project 20261028" [ref=f48e269] [cursor=pointer]:
+                    - /url: /projects/5
+                  - generic [ref=f48e270]
+          - generic [ref=f48e279]:
+            - heading "Tareas en Curso" [level=2] [ref=f48e280]
+            - list [ref=f48e284]:
+              - listitem [ref=f48e285]:
+                - generic [ref=f48e287] [cursor=pointer]:
+                  - generic [ref=f48e290]
+                  - generic [ref=f48e295]
+                  - button "Añadir a Favoritos" [ref=f48e302]
+              - listitem [ref=f48e306]:
+                - generic [ref=f48e308] [cursor=pointer]:
+                  - generic [ref=f48e311]
+                  - generic [ref=f48e316]
+                  - button "Añadir a Favoritos" [ref=f48e339]
+              - listitem [ref=f48e343]:
+                - generic [ref=f48e345] [cursor=pointer]:
+                  - generic [ref=f48e348]
+                  - generic [ref=f48e354]
+                  - button "Añadir a Favoritos" [ref=f48e358]
+        - button "Atajos de Teclado" [ref=f48e362] [cursor=pointer]
+  - dialog "Search and quick actions" [ref=f48e366]:
+    - generic [ref=f48e367]:
+      - button "Close dialog" [ref=f48e368] [cursor=pointer]
+      - generic [ref=f48e372]:
+        - textbox "Escriba un comando o búsqueda…" [active] [ref=f48e374]: "*REA Inventory Label 20261029 REA Inventory Task 20261029"
+        - generic [ref=f48e375]: Puedes usar + para limitar la búsqueda a un proyecto. Combina + o * (etiquetas) con una consulta de búsqueda para buscar una tarea con estas etiquetas o en ese proyecto. Usa @ para buscar sólo equipos.
+        - status [ref=f48e376]: 4 results
+        - generic [ref=f48e428]:
+          - generic [ref=f48e429]: Labels
+          - generic [ref=f48e430]:
+            - button "REA Label" [ref=f48e431] [cursor=pointer]:
+              - generic [ref=f48e432]: REA
+              - generic [ref=f48e434]: Label
+            - button "REA Discovery Label 20261028 Label" [ref=f48e435] [cursor=pointer]:
+              - generic [ref=f48e436]: REA Discovery Label 20261028
+              - generic [ref=f48e438]: Label
+            - button "REA Discovery UI Label 20261028 Label" [ref=f48e439] [cursor=pointer]:
+              - generic [ref=f48e440]: REA Discovery UI Label 20261028
+              - generic [ref=f48e442]: Label
+            - button "REA Inventory Label 20261029 Label" [ref=f48e443] [cursor=pointer]:
+              - generic [ref=f48e444]: REA Inventory Label 20261029
+              - generic [ref=f48e446]: Label
+    - status

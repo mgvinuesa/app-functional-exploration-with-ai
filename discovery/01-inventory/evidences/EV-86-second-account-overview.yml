@@ -1,0 +1,70 @@
+# observedAt: 2026-10-29T10:57:45Z; rol/contexto: usuario autenticado sintético recién registrado rea_discovery_member_20261029, sin participación en recursos ajenos ni rol global visible; URL: /.
+- generic [ref=e1]:
+  - generic [ref=e2]:
+    - link "Skip to main content" [ref=e3] [cursor=pointer]:
+      - /url: "#main-content"
+    - banner "main navigation" [ref=e71]:
+      - link "Vikunja home" [ref=e72] [cursor=pointer]:
+        - /url: /
+        - img "Vikunja" [ref=e74]
+      - button "Oculta el menú" [expanded] [ref=e87] [cursor=pointer]
+      - generic [ref=e88]:
+        - button "Abrir la barra de búsqueda/acción rápida" [ref=e89] [cursor=pointer]
+        - button "Notificaciones" [ref=e93] [cursor=pointer]
+        - button "rea_discovery_member_20261029" [ref=e98] [cursor=pointer]
+    - generic [ref=e104]:
+      - complementary [ref=e106]:
+        - navigation "Main navigation" [ref=e107]:
+          - list [ref=e108]:
+            - listitem [ref=e109]:
+              - link [ref=e110] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=e114]:
+              - link [ref=e115] [cursor=pointer]:
+                - /url: /tasks/by/upcoming
+            - listitem [ref=e119]:
+              - link [ref=e120] [cursor=pointer]:
+                - /url: /projects
+            - listitem [ref=e124]:
+              - link [ref=e125] [cursor=pointer]:
+                - /url: /labels
+            - listitem [ref=e129]:
+              - link [ref=e130] [cursor=pointer]:
+                - /url: /teams
+        - navigation "Saved filters" [ref=e134]:
+          - list [ref=e135]:
+            - listitem [ref=e136]:
+              - generic [ref=e137]:
+                - link "My Open Tasks" [ref=e138] [cursor=pointer]:
+                  - /url: /projects/-8
+                - button "Mark this project as favorite" [ref=e144] [cursor=pointer]
+                - button "Open project settings menu" [ref=e149] [cursor=pointer]
+        - navigation "Proyectos" [ref=e153]:
+          - list [ref=e154]:
+            - listitem [ref=e155]:
+              - generic [ref=e156]:
+                - link "Bandeja de entrada" [ref=e157] [cursor=pointer]:
+                  - /url: /projects/8
+                - button "Mark this project as favorite" [ref=e163] [cursor=pointer]
+                - button "Open project settings menu" [ref=e168] [cursor=pointer]
+              - list
+        - link "Con tecnología de Vikunja" [ref=e172] [cursor=pointer]:
+          - /url: https://vikunja.io/?utm_source=powered_by&utm_medium=navigation
+      - main [ref=e174]:
+        - generic [ref=e175]:
+          - heading "What's next, rea_discovery_member_20261029?" [level=1] [ref=e176]
+          - generic [ref=e178]:
+            - paragraph [ref=e179]:
+              - generic [ref=e180]: Add a task…
+              - textbox "Add a task…" [active] [ref=e184]
+              - button "Usar prefijos mágicos para definir fechas de vencimiento, asignados y otras propiedades de tareas." [ref=e185] [cursor=pointer]
+            - paragraph [ref=e188]:
+              - button "Añadir" [disabled]
+          - paragraph [ref=e189]: "Importa tus proyectos y tareas de otros servicios a Vikunja:"
+          - link "Importa tus datos a Vikunja" [ref=e190] [cursor=pointer]:
+            - /url: /user/settings/migrate
+          - generic [ref=e192]:
+            - heading "Tareas en Curso" [level=2] [ref=e193]
+            - heading "Nada que hacer — ¡Que tenga un buen día!" [level=3] [ref=e194]
+        - button "Atajos de Teclado" [ref=e210] [cursor=pointer]
+  - status

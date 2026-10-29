@@ -1,0 +1,358 @@
+- generic [ref=f26e1]:
+  - generic [ref=f26e15]:
+    - link "Skip to main content" [ref=f26e16] [cursor=pointer]:
+      - /url: "#main-content"
+    - banner "main navigation" [ref=f26e17]:
+      - link "Vikunja home" [ref=f26e18] [cursor=pointer]:
+        - /url: /
+        - img "Vikunja" [ref=f26e20]
+      - button "Oculta el menú" [expanded] [ref=f26e33] [cursor=pointer]
+      - generic [ref=f26e34]:
+        - button "Abrir la barra de búsqueda/acción rápida" [ref=f26e35] [cursor=pointer]
+        - generic [ref=f26e38]:
+          - button "Notificaciones" [ref=f26e39] [cursor=pointer]
+          - generic [ref=f26e366]:
+            - generic [ref=f26e367]:
+              - generic [ref=f26e368]: Notificaciones
+              - link "Subscribe to notifications via Atom feed" [ref=f26e370] [cursor=pointer]:
+                - /url: /user/settings/feeds
+            - paragraph [ref=f26e374]: No tienes notificaciones. ¡Que tengas un buen día!Notifications will appear here when actions, projects or tasks you subscribed to happen.
+        - button "rea_discovery_20261028b" [ref=f26e44] [cursor=pointer]
+    - generic [ref=f26e50]:
+      - complementary [ref=f26e52]:
+        - navigation "Main navigation" [ref=f26e53]:
+          - list [ref=f26e54]:
+            - listitem [ref=f26e55]:
+              - link [ref=f26e56] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=f26e60]:
+              - link [ref=f26e61] [cursor=pointer]:
+                - /url: /tasks/by/upcoming
+            - listitem [ref=f26e65]:
+              - link [ref=f26e66] [cursor=pointer]:
+                - /url: /projects
+            - listitem [ref=f26e70]:
+              - link [ref=f26e71] [cursor=pointer]:
+                - /url: /labels
+            - listitem [ref=f26e75]:
+              - link [ref=f26e76] [cursor=pointer]:
+                - /url: /teams
+        - navigation "Saved filters" [ref=f26e80]:
+          - list [ref=f26e81]:
+            - listitem [ref=f26e82]:
+              - generic [ref=f26e83]:
+                - link "My Open Tasks" [ref=f26e84] [cursor=pointer]:
+                  - /url: /projects/-5
+                - button "Mark this project as favorite" [ref=f26e90] [cursor=pointer]
+                - button "Open project settings menu" [ref=f26e95] [cursor=pointer]
+            - listitem [ref=f26e99]:
+              - generic [ref=f26e100]:
+                - link "REA Discovery Synthetic Filter 20261028" [ref=f26e101] [cursor=pointer]:
+                  - /url: /projects/-6
+                - button "Mark this project as favorite" [ref=f26e107] [cursor=pointer]
+                - button "Open project settings menu" [ref=f26e112] [cursor=pointer]
+            - listitem [ref=f26e116]:
+              - generic [ref=f26e117]:
+                - link "REA Inventory Filter 20261029" [ref=f26e118] [cursor=pointer]:
+                  - /url: /projects/-7
+                - button "Mark this project as favorite" [ref=f26e124] [cursor=pointer]
+                - button "Open project settings menu" [ref=f26e129] [cursor=pointer]
+        - navigation "Proyectos" [ref=f26e133]:
+          - list [ref=f26e134]:
+            - listitem [ref=f26e135]:
+              - generic [ref=f26e136]:
+                - link "Bandeja de entrada" [ref=f26e137] [cursor=pointer]:
+                  - /url: /projects/4
+                - button "Mark this project as favorite" [ref=f26e143] [cursor=pointer]
+                - button "Open project settings menu" [ref=f26e148] [cursor=pointer]
+              - list
+            - listitem [ref=f26e152]:
+              - generic [ref=f26e153]:
+                - link "REA Discovery Project 20261028" [ref=f26e154] [cursor=pointer]:
+                  - /url: /projects/5
+                - button "Mark this project as favorite" [ref=f26e160] [cursor=pointer]
+                - button "Open project settings menu" [ref=f26e165] [cursor=pointer]
+              - list
+            - listitem [ref=f26e169]:
+              - generic [ref=f26e170]:
+                - link "REA Discovery Synthetic Project 20261028" [ref=f26e171] [cursor=pointer]:
+                  - /url: /projects/6
+                - button "Mark this project as favorite" [ref=f26e177] [cursor=pointer]
+                - button "Open project settings menu" [ref=f26e182] [cursor=pointer]
+              - list
+            - listitem [ref=f26e186]:
+              - generic [ref=f26e187]:
+                - link "REA Inventory Project 20261029" [ref=f26e188] [cursor=pointer]:
+                  - /url: /projects/7
+                - button "Mark this project as favorite" [ref=f26e194] [cursor=pointer]
+                - button "Open project settings menu" [ref=f26e199] [cursor=pointer]
+              - list
+        - link "Con tecnología de Vikunja" [ref=f26e203] [cursor=pointer]:
+          - /url: https://vikunja.io/?utm_source=powered_by&utm_medium=navigation
+      - main [ref=f26e205]:
+        - generic [ref=f26e206]:
+          - heading "Welcome back, rea_discovery_20261028b" [level=1] [ref=f26e207]
+          - generic [ref=f26e209]:
+            - paragraph [ref=f26e210]:
+              - generic [ref=f26e211]: Add a task…
+              - textbox "Add a task…" [ref=f26e215]
+              - button "Usar prefijos mágicos para definir fechas de vencimiento, asignados y otras propiedades de tareas." [ref=f26e216] [cursor=pointer]
+            - paragraph [ref=f26e219]:
+              - button "Añadir" [disabled]
+          - generic [ref=f26e220]:
+            - heading "Visto por última vez" [level=2] [ref=f26e221]
+            - list [ref=f26e222]:
+              - listitem [ref=f26e223]:
+                - generic [ref=f26e224]:
+                  - generic [aria-hidden] [ref=f26e226]: REA Inventory Project 20261029
+                  - link "REA Inventory Project 20261029" [ref=f26e227] [cursor=pointer]:
+                    - /url: /projects/7
+                  - generic [ref=f26e228]:
+                    - button "Mark this project as favorite" [ref=f26e229] [cursor=pointer]
+                    - button "Open project settings menu" [ref=f26e233] [cursor=pointer]
+              - listitem [ref=f26e237]:
+                - generic [ref=f26e238]:
+                  - generic [aria-hidden] [ref=f26e240]: REA Inventory Filter 20261029
+                  - link "REA Inventory Filter 20261029" [ref=f26e244] [cursor=pointer]:
+                    - /url: /projects/-7
+                  - button "Open project settings menu" [ref=f26e247] [cursor=pointer]
+              - listitem [ref=f26e251]:
+                - generic [ref=f26e252]:
+                  - generic [aria-hidden] [ref=f26e254]: REA Discovery Synthetic Filter 20261028
+                  - link "REA Discovery Synthetic Filter 20261028" [ref=f26e258] [cursor=pointer]:
+                    - /url: /projects/-6
+                  - button "Open project settings menu" [ref=f26e261] [cursor=pointer]
+              - listitem [ref=f26e265]:
+                - generic [ref=f26e266]:
+                  - generic [aria-hidden] [ref=f26e268]: REA Discovery Project 20261028
+                  - link "REA Discovery Project 20261028" [ref=f26e269] [cursor=pointer]:
+                    - /url: /projects/5
+                  - generic [ref=f26e270]:
+                    - button "Mark this project as favorite" [ref=f26e271] [cursor=pointer]
+                    - button "Open project settings menu" [ref=f26e275] [cursor=pointer]
+          - generic [ref=f26e279]:
+            - heading "Tareas en Curso" [level=2] [ref=f26e280]
+            - list [ref=f26e284]:
+              - listitem [ref=f26e285]:
+                - generic [ref=f26e287] [cursor=pointer]:
+                  - generic [ref=f26e290]:
+                    - checkbox "Mark 'REA Inventory Task 20261029' as done" [ref=f26e291]
+                    - img "Checkbox" [ref=f26e292]
+                  - generic [ref=f26e295]:
+                    - generic [ref=f26e296]
+                    - button "– Vence en un día" [ref=f26e300]
+                  - button "Añadir a Favoritos" [ref=f26e302]
+              - listitem [ref=f26e306]:
+                - generic [ref=f26e308] [cursor=pointer]:
+                  - generic [ref=f26e311]:
+                    - checkbox "Mark 'REA Discovery Synthetic Task 20261028 Discovery Tag 20261028' as done" [ref=f26e312]
+                    - img "Checkbox" [ref=f26e313]
+                  - generic [ref=f26e316]:
+                    - generic [ref=f26e317]
+                    - generic [ref=f26e326]: REA
+                    - button "– Vence en 7 días" [ref=f26e333]
+                  - button "Añadir a Favoritos" [ref=f26e339]
+              - listitem [ref=f26e343]:
+                - generic [ref=f26e345] [cursor=pointer]:
+                  - generic [ref=f26e348]:
+                    - checkbox "Mark 'REA Discovery Task 20261028' as done" [ref=f26e349]
+                    - img "Checkbox" [ref=f26e350]
+                  - generic [ref=f26e354]:
+                    - link "REA Discovery Project 20261028" [ref=f26e355]:
+                      - /url: /projects/5
+                    - link "REA Discovery Task 20261028" [ref=f26e357]:
+                      - /url: /tasks/3
+                  - button "Añadir a Favoritos" [ref=f26e358]
+        - button "Atajos de Teclado" [ref=f26e362] [cursor=pointer]
+    - paragraph [ref=f26e14]: Vikunja está cargando…
+  - dialog [ref=f26e375]:
+    - generic [ref=f26e376]:
+      - button "Close dialog" [ref=f26e377] [cursor=pointer]
+      - generic [ref=f26e381]:
+        - banner [ref=f26e382]:
+          - paragraph [ref=f26e383]: Atajos de Teclado
+        - generic [ref=f26e385]:
+          - heading "General" [level=3] [ref=f26e386]
+          - generic [ref=f26e387]:
+            - term [ref=f26e388]: Alternar El Menú
+            - definition [ref=f26e389]:
+              - generic [ref=f26e390]: ctrl
+              - generic [ref=f26e391]: +
+              - generic [ref=f26e392]: e
+            - term [ref=f26e393]: Abrir la barra de búsqueda/acción rápida
+            - definition [ref=f26e394]:
+              - generic [ref=f26e395]: ctrl
+              - generic [ref=f26e396]: +
+              - generic [ref=f26e397]: k
+          - heading "Secciones" [level=3] [ref=f26e398]
+          - generic [ref=f26e399]:
+            - term [ref=f26e400]: Ir a resumen
+            - definition [ref=f26e401]:
+              - generic [ref=f26e402]: g
+              - generic [ref=f26e403]: después
+              - generic [ref=f26e404]: o
+            - term [ref=f26e405]: Ir a tareas próximas
+            - definition [ref=f26e406]:
+              - generic [ref=f26e407]: g
+              - generic [ref=f26e408]: después
+              - generic [ref=f26e409]: u
+            - term [ref=f26e410]: Navegar a proyectos
+            - definition [ref=f26e411]:
+              - generic [ref=f26e412]: g
+              - generic [ref=f26e413]: después
+              - generic [ref=f26e414]: p
+            - term [ref=f26e415]: Ir a etiquetas
+            - definition [ref=f26e416]:
+              - generic [ref=f26e417]: g
+              - generic [ref=f26e418]: después
+              - generic [ref=f26e419]: a
+            - term [ref=f26e420]: Ir a equipos
+            - definition [ref=f26e421]:
+              - generic [ref=f26e422]: g
+              - generic [ref=f26e423]: después
+              - generic [ref=f26e424]: m
+          - heading "Task List" [level=3] [ref=f26e425]
+          - generic [ref=f26e426]: Estos atajos funcionan solo en algunas páginas.
+          - generic [ref=f26e428]:
+            - term [ref=f26e429]: Highlight next task
+            - definition [ref=f26e430]:
+              - generic [ref=f26e431]: j
+            - term [ref=f26e432]: Highlight previous task
+            - definition [ref=f26e433]:
+              - generic [ref=f26e434]: k
+            - term [ref=f26e435]: Open highlighted task
+            - definition [ref=f26e436]:
+              - generic [ref=f26e437]: enter
+          - heading "Kanban" [level=3] [ref=f26e438]
+          - generic [ref=f26e439]: Estos atajos funcionan solo en algunas páginas.
+          - generic [ref=f26e441]:
+            - term [ref=f26e442]: Marcar tarea como hecha / no hecha
+            - definition [ref=f26e443]:
+              - generic [ref=f26e444]: ctrl
+              - generic [ref=f26e445]: +
+              - generic [ref=f26e446]: click
+          - heading "Vistas de proyecto" [level=3] [ref=f26e447]
+          - generic [ref=f26e448]: Estos atajos funcionan solo en algunas páginas.
+          - generic [ref=f26e450]:
+            - term [ref=f26e451]: Cambiar a vista de lista
+            - definition [ref=f26e452]:
+              - generic [ref=f26e453]: g
+              - generic [ref=f26e454]: después
+              - generic [ref=f26e455]: l
+            - term [ref=f26e456]: Cambiar a vista Gantt
+            - definition [ref=f26e457]:
+              - generic [ref=f26e458]: g
+              - generic [ref=f26e459]: después
+              - generic [ref=f26e460]: g
+            - term [ref=f26e461]: Cambiar a vista de tabla
+            - definition [ref=f26e462]:
+              - generic [ref=f26e463]: g
+              - generic [ref=f26e464]: después
+              - generic [ref=f26e465]: t
+            - term [ref=f26e466]: Cambiar a vista Kanban
+            - definition [ref=f26e467]:
+              - generic [ref=f26e468]: g
+              - generic [ref=f26e469]: después
+              - generic [ref=f26e470]: k
+          - heading "Gantt Chart" [level=3] [ref=f26e471]
+          - generic [ref=f26e472]: Estos atajos funcionan solo en algunas páginas.
+          - generic [ref=f26e474]:
+            - term [ref=f26e475]: Move task to earlier date
+            - definition [ref=f26e476]:
+              - generic [ref=f26e477]: ←
+            - term [ref=f26e478]: Move task to later date
+            - definition [ref=f26e479]:
+              - generic [ref=f26e480]: →
+            - term [ref=f26e481]: Expand task start date earlier
+            - definition [ref=f26e482]:
+              - generic [ref=f26e483]: shift
+              - generic [ref=f26e484]: +
+              - generic [ref=f26e485]: ←
+            - term [ref=f26e486]: Expand task end date later
+            - definition [ref=f26e487]:
+              - generic [ref=f26e488]: shift
+              - generic [ref=f26e489]: +
+              - generic [ref=f26e490]: →
+            - term [ref=f26e491]: Shrink task from start date
+            - definition [ref=f26e492]:
+              - generic [ref=f26e493]: ctrl
+              - generic [ref=f26e494]: +
+              - generic [ref=f26e495]: ←
+            - term [ref=f26e496]: Shrink task from end date
+            - definition [ref=f26e497]:
+              - generic [ref=f26e498]: ctrl
+              - generic [ref=f26e499]: +
+              - generic [ref=f26e500]: →
+          - heading "Página de Tarea" [level=3] [ref=f26e501]
+          - generic [ref=f26e502]: Estos atajos funcionan solo en algunas páginas.
+          - generic [ref=f26e504]:
+            - term [ref=f26e505]: Marcar tarea como hecha / no hecha
+            - definition [ref=f26e506]:
+              - generic [ref=f26e507]: t
+            - term [ref=f26e508]: Asignar esta tarea a un usuario
+            - definition [ref=f26e509]:
+              - generic [ref=f26e510]: a
+            - term [ref=f26e511]: Añadir etiquetas a esta tarea
+            - definition [ref=f26e512]:
+              - generic [ref=f26e513]: l
+            - term [ref=f26e514]: Cambiar la fecha límite de esta tarea
+            - definition [ref=f26e515]:
+              - generic [ref=f26e516]: d
+            - term [ref=f26e517]: Añadir un adjunto a esta tarea
+            - definition [ref=f26e518]:
+              - generic [ref=f26e519]: f
+            - term [ref=f26e520]: Modificar tareas relacionadas de esta tarea
+            - definition [ref=f26e521]:
+              - generic [ref=f26e522]: r
+            - term [ref=f26e523]: Mover esta tarea a otro proyecto
+            - definition [ref=f26e524]:
+              - generic [ref=f26e525]: m
+            - term [ref=f26e526]: Cambia el color de esta tarea
+            - definition [ref=f26e527]:
+              - generic [ref=f26e528]: c
+            - term [ref=f26e529]: Administrar recordatorios de esta tarea
+            - definition [ref=f26e530]:
+              - generic [ref=f26e531]: alt
+              - generic [ref=f26e532]: +
+              - generic [ref=f26e533]: r
+            - term [ref=f26e534]: Editar la descripción de la tarea
+            - definition [ref=f26e535]:
+              - generic [ref=f26e536]: e
+            - term [ref=f26e537]: Cambiar la prioridad de esta tarea
+            - definition [ref=f26e538]:
+              - generic [ref=f26e539]: p
+            - term [ref=f26e540]: Eliminar esta tarea
+            - definition [ref=f26e541]:
+              - generic [ref=f26e542]: delete
+            - term [ref=f26e543]: Marcar esta tarea como favorita / no favorita
+            - definition [ref=f26e544]:
+              - generic [ref=f26e545]: s
+            - term [ref=f26e546]: Open the project of this task
+            - definition [ref=f26e547]:
+              - generic [ref=f26e548]: u
+            - term [ref=f26e549]: Save the current task
+            - definition [ref=f26e550]:
+              - generic [ref=f26e551]: ctrl
+              - generic [ref=f26e552]: +
+              - generic [ref=f26e553]: s
+            - term [ref=f26e554]: Copy task identifier to clipboard
+            - definition [ref=f26e555]:
+              - generic [ref=f26e556]: .
+            - term [ref=f26e557]: Copy task identifier and title to clipboard
+            - definition [ref=f26e558]:
+              - generic [ref=f26e559]: .
+              - generic [ref=f26e560]: después
+              - generic [ref=f26e561]: .
+            - term [ref=f26e562]: Copy task identifier, title and URL to clipboard
+            - definition [ref=f26e563]:
+              - generic [ref=f26e564]: .
+              - generic [ref=f26e565]: después
+              - generic [ref=f26e566]: .
+              - generic [ref=f26e567]: después
+              - generic [ref=f26e568]: .
+            - term [ref=f26e569]: Copy task URL to clipboard
+            - definition [ref=f26e570]:
+              - generic [ref=f26e571]: ctrl
+              - generic [ref=f26e572]: +
+              - generic [ref=f26e573]: .
+    - status

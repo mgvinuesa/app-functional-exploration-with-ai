@@ -1,0 +1,241 @@
+- generic [ref=f12e1]:
+  - generic [ref=f12e15]:
+    - link "Skip to main content" [ref=f12e16] [cursor=pointer]:
+      - /url: "#main-content"
+    - banner "main navigation" [ref=f12e17]:
+      - link "Vikunja home" [ref=f12e18] [cursor=pointer]:
+        - /url: /
+        - img "Vikunja" [ref=f12e20]
+      - button "Oculta el menú" [expanded] [ref=f12e33] [cursor=pointer]
+      - generic [ref=f12e213]:
+        - generic [ref=f12e214]: REA Inventory Project 20261029
+        - button "Open project settings menu" [ref=f12e216] [cursor=pointer]
+      - generic [ref=f12e34]:
+        - button "Abrir la barra de búsqueda/acción rápida" [ref=f12e35] [cursor=pointer]
+        - button "Notificaciones" [ref=f12e39] [cursor=pointer]
+        - button "rea_discovery_20261028b" [ref=f12e44] [cursor=pointer]
+    - generic [ref=f12e50]:
+      - complementary [ref=f12e52]:
+        - navigation "Main navigation" [ref=f12e53]:
+          - list [ref=f12e54]:
+            - listitem [ref=f12e55]:
+              - link [ref=f12e56] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=f12e60]:
+              - link [ref=f12e61] [cursor=pointer]:
+                - /url: /tasks/by/upcoming
+            - listitem [ref=f12e65]:
+              - link [ref=f12e66] [cursor=pointer]:
+                - /url: /projects
+            - listitem [ref=f12e70]:
+              - link [ref=f12e71] [cursor=pointer]:
+                - /url: /labels
+            - listitem [ref=f12e75]:
+              - link [ref=f12e76] [cursor=pointer]:
+                - /url: /teams
+        - navigation "Saved filters" [ref=f12e80]:
+          - list [ref=f12e81]:
+            - listitem [ref=f12e82]:
+              - generic [ref=f12e83]:
+                - link "My Open Tasks" [ref=f12e84] [cursor=pointer]:
+                  - /url: /projects/-5
+                - button "Mark this project as favorite" [ref=f12e90] [cursor=pointer]
+                - button "Open project settings menu" [ref=f12e95] [cursor=pointer]
+            - listitem [ref=f12e99]:
+              - generic [ref=f12e100]:
+                - link "REA Discovery Synthetic Filter 20261028" [ref=f12e101] [cursor=pointer]:
+                  - /url: /projects/-6
+                - button "Mark this project as favorite" [ref=f12e107] [cursor=pointer]
+                - button "Open project settings menu" [ref=f12e112] [cursor=pointer]
+        - navigation "Proyectos" [ref=f12e116]:
+          - list [ref=f12e117]:
+            - listitem [ref=f12e118]:
+              - generic [ref=f12e119]:
+                - link "Bandeja de entrada" [ref=f12e120] [cursor=pointer]:
+                  - /url: /projects/4
+                - button "Mark this project as favorite" [ref=f12e126] [cursor=pointer]
+                - button "Open project settings menu" [ref=f12e131] [cursor=pointer]
+              - list
+            - listitem [ref=f12e135]:
+              - generic [ref=f12e136]:
+                - link "REA Discovery Project 20261028" [ref=f12e137] [cursor=pointer]:
+                  - /url: /projects/5
+                - button "Mark this project as favorite" [ref=f12e143] [cursor=pointer]
+                - button "Open project settings menu" [ref=f12e148] [cursor=pointer]
+              - list
+            - listitem [ref=f12e152]:
+              - generic [ref=f12e153]:
+                - link "REA Discovery Synthetic Project 20261028" [ref=f12e154] [cursor=pointer]:
+                  - /url: /projects/6
+                - button "Mark this project as favorite" [ref=f12e160] [cursor=pointer]
+                - button "Open project settings menu" [ref=f12e165] [cursor=pointer]
+              - list
+            - listitem [ref=f12e220]:
+              - generic [ref=f12e221]:
+                - link "REA Inventory Project 20261029" [ref=f12e222] [cursor=pointer]:
+                  - /url: /projects/7
+                - button "Mark this project as favorite" [ref=f12e228] [cursor=pointer]
+                - button "Open project settings menu" [ref=f12e233] [cursor=pointer]
+              - list
+        - link "Con tecnología de Vikunja" [ref=f12e169] [cursor=pointer]:
+          - /url: https://vikunja.io/?utm_source=powered_by&utm_medium=navigation
+      - main [ref=f12e171]:
+        - generic [ref=f12e237]:
+          - generic [ref=f12e238]:
+            - generic [ref=f12e239]:
+              - link "Lista" [ref=f12e240] [cursor=pointer]:
+                - /url: /projects/7/45
+              - link "Gantt" [ref=f12e241] [cursor=pointer]:
+                - /url: /projects/7/46
+              - link "Tabla" [ref=f12e242] [cursor=pointer]:
+                - /url: /projects/7/47
+              - link "Kanban" [ref=f12e243] [cursor=pointer]:
+                - /url: /projects/7/48
+            - generic [ref=f12e244]:
+              - button "Sort" [ref=f12e245] [cursor=pointer]
+              - button "Filtros" [ref=f12e250] [cursor=pointer]
+          - generic [ref=f12e258]:
+            - generic [ref=f12e260]:
+              - paragraph [ref=f12e261]:
+                - generic [ref=f12e262]: Add a task…
+                - textbox "Add a task…" [ref=f12e266]
+                - button "Usar prefijos mágicos para definir fechas de vencimiento, asignados y otras propiedades de tareas." [ref=f12e267] [cursor=pointer]
+              - paragraph [ref=f12e270]:
+                - button "Añadir" [disabled]
+            - paragraph [ref=f12e271]:
+              - text: Este proyecto está actualmente vacío.
+              - button "Create a task." [ref=f12e272] [cursor=pointer]
+        - button "Atajos de Teclado" [ref=f12e172] [cursor=pointer]
+  - dialog "Filtros" [ref=f12e279]:
+    - generic [ref=f12e280]:
+      - button "Close dialog" [active] [ref=f12e281] [cursor=pointer]
+      - search [ref=f12e285]:
+        - banner [ref=f12e286]:
+          - paragraph [ref=f12e287]: Filtros
+        - generic [ref=f12e289]:
+          - textbox "Filter query" [ref=f12e293]:
+            - paragraph [ref=f12e294]: Type a search or filter query…
+          - generic [ref=f12e295]:
+            - text: "The current view has a filter set as well:"
+            - code [ref=f12e296]: done = false
+            - text: It will be used in combination with what you enter here.
+          - generic [ref=f12e299] [cursor=pointer]:
+            - checkbox "Checkbox Incluye tareas que no tienen un valor establecido" [ref=f12e300]
+            - img "Checkbox" [ref=f12e301]
+            - generic [ref=f12e304]: Incluye tareas que no tienen un valor establecido
+          - button "How does this work?" [ref=f12e305] [cursor=pointer]
+          - generic [ref=f12e383]:
+            - paragraph [ref=f12e309]: "To filter tasks, you can use a query syntax similar to SQL. The available fields for filtering include:"
+            - list [ref=f12e310]:
+              - listitem [ref=f12e311]:
+                - code [ref=f12e312]: done
+                - text: ": Whether the task is completed or not"
+              - listitem [ref=f12e313]:
+                - code [ref=f12e314]: priority
+                - text: ": The priority level of the task (1-5)"
+              - listitem [ref=f12e315]:
+                - code [ref=f12e316]: percentDone
+                - text: ": The percentage of completion for the task (0-100)"
+              - listitem [ref=f12e317]:
+                - code [ref=f12e318]: dueDate
+                - text: ": The due date of the task"
+              - listitem [ref=f12e319]:
+                - code [ref=f12e320]: startDate
+                - text: ": The start date of the task"
+              - listitem [ref=f12e321]:
+                - code [ref=f12e322]: endDate
+                - text: ": The end date of the task"
+              - listitem [ref=f12e323]:
+                - code [ref=f12e324]: doneAt
+                - text: ": The date and time when the task was completed"
+              - listitem [ref=f12e325]:
+                - code [ref=f12e326]: assignees
+                - text: ": The assignees of the task"
+              - listitem [ref=f12e327]:
+                - code [ref=f12e328]: createdBy
+                - text: ": The user who created the task (matched by username)"
+              - listitem [ref=f12e329]:
+                - code [ref=f12e330]: labels
+                - text: ": The labels associated with the task"
+              - listitem [ref=f12e331]:
+                - code [ref=f12e332]: project
+                - text: ": The project the task belongs to (only available for saved filters, not on a project level)"
+              - listitem [ref=f12e333]:
+                - code [ref=f12e334]: reminders
+                - text: ": The reminders of the task as a date field, will return all tasks with at least one reminder matching the query"
+              - listitem [ref=f12e335]:
+                - code [ref=f12e336]: created
+                - text: ": The time and date when the task was created"
+              - listitem [ref=f12e337]:
+                - code [ref=f12e338]: updated
+                - text: ": The time and date when the task was last changed"
+            - paragraph [ref=f12e339]: You can use date math to set relative dates. Click on the date value in a query to find out more.
+            - paragraph [ref=f12e340]: "The available operators for filtering include:"
+            - list [ref=f12e341]:
+              - listitem [ref=f12e342]:
+                - code [ref=f12e343]: "!="
+                - text: ": Not equal to"
+              - listitem [ref=f12e344]:
+                - code [ref=f12e345]: =
+                - text: ": Equal to"
+              - listitem [ref=f12e346]:
+                - code [ref=f12e347]: ">"
+                - text: ": Greater than"
+              - listitem [ref=f12e348]:
+                - code [ref=f12e349]: ">="
+                - text: ": Greater than or equal to"
+              - listitem [ref=f12e350]:
+                - code [ref=f12e351]: <
+                - text: ": Less than"
+              - listitem [ref=f12e352]:
+                - code [ref=f12e353]: <=
+                - text: ": Less than or equal to"
+              - listitem [ref=f12e354]:
+                - code [ref=f12e355]: like
+                - text: ": Matches a pattern (using wildcard %)"
+              - listitem [ref=f12e356]:
+                - code [ref=f12e357]: in
+                - text: ": Matches any value in a comma-separated list of values"
+              - listitem [ref=f12e358]:
+                - code [ref=f12e359]: not in
+                - text: ": Matches any value not present in a comma-separated list of values"
+            - paragraph [ref=f12e360]: "To combine multiple conditions, you can use the following logical operators:"
+            - list [ref=f12e361]:
+              - listitem [ref=f12e362]:
+                - code [ref=f12e363]: "&&"
+                - text: ": AND operator, matches if all conditions are true"
+              - listitem [ref=f12e364]:
+                - code [ref=f12e365]: "||"
+                - text: ": OR operator, matches if any of the conditions are true"
+              - listitem [ref=f12e366]:
+                - code [ref=f12e367]: (
+                - text: and
+                - code [ref=f12e368]: )
+                - text: ": Parentheses for grouping conditions"
+            - paragraph [ref=f12e369]: "Here are some examples of filter queries:"
+            - list [ref=f12e370]:
+              - listitem [ref=f12e371]:
+                - code [ref=f12e372]: priority = 4
+                - text: ": Matches tasks with priority level 4"
+              - listitem [ref=f12e373]:
+                - code [ref=f12e374]: dueDate < now
+                - text: ": Matches tasks with a due date in the past"
+              - listitem [ref=f12e375]:
+                - code [ref=f12e376]: done = false && priority >= 3
+                - text: ": Matches undone tasks with priority level 3 or higher"
+              - listitem [ref=f12e377]:
+                - code [ref=f12e378]: assignees in user1, user2
+                - text: ": Matches tasks assigned to either \"user1\" or \"user2\""
+              - listitem [ref=f12e379]:
+                - code [ref=f12e380]: createdBy = user1
+                - text: ": Matches tasks created by \"user1\""
+              - listitem [ref=f12e381]:
+                - code [ref=f12e382]: (priority = 1 || priority = 2) && dueDate <= now
+                - text: ": Matches tasks with priority level 1 or 2 and a due date in the past"
+        - contentinfo [ref=f12e306]:
+          - button "Limpiar Filtros" [disabled]
+          - button "Show results" [ref=f12e307] [cursor=pointer]
+    - status [ref=f12e273]:
+      - generic [ref=f12e276]:
+        - generic [ref=f12e277]: Éxito
+        - generic [ref=f12e278]: El proyecto ha sido creado con éxito.

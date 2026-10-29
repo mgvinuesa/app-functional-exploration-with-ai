@@ -1,0 +1,124 @@
+# observedAt: 2026-10-29T11:18:02Z; rol: usuario autenticado rea_discovery_member_20261029, permiso directo Read & write; URL: /projects/7/45; menú del proyecto abierto, sin ejecutar acciones.
+- generic [ref=f8e1]:
+  - generic [ref=f8e15]:
+    - link "Skip to main content" [ref=f8e16] [cursor=pointer]:
+      - /url: "#main-content"
+    - banner "main navigation" [ref=f8e17]:
+      - link "Vikunja home" [ref=f8e18] [cursor=pointer]:
+        - /url: /
+        - img "Vikunja" [ref=f8e20]
+      - button "Oculta el menú" [expanded] [ref=f8e33] [cursor=pointer]
+      - generic [ref=f8e34]:
+        - generic [ref=f8e35]: REA Inventory Project 20261029
+        - generic [ref=f8e36]:
+          - button "Open project settings menu" [expanded] [active] [ref=f8e37] [cursor=pointer]
+          - generic [ref=f8e226]:
+            - link "Editar" [ref=f8e227] [cursor=pointer]:
+              - /url: /projects/7/settings/edit
+            - link "Views" [ref=f8e232] [cursor=pointer]:
+              - /url: /projects/7/settings/views
+            - link "Background settings" [ref=f8e237] [cursor=pointer]:
+              - /url: /projects/7/settings/background
+            - link "Compartir" [ref=f8e242] [cursor=pointer]:
+              - /url: /projects/7/settings/share
+            - link "Duplicar" [ref=f8e247] [cursor=pointer]:
+              - /url: /projects/7/settings/duplicate
+            - link "Archivar" [ref=f8e252] [cursor=pointer]:
+              - /url: /projects/7/settings/archive
+            - button "Suscribirse" [ref=f8e257] [cursor=pointer]
+            - link "Webhooks" [ref=f8e262] [cursor=pointer]:
+              - /url: /projects/7/settings/webhooks
+            - link "Crear proyecto" [ref=f8e267] [cursor=pointer]:
+              - /url: /projects/7/new
+      - generic [ref=f8e41]:
+        - button "Abrir la barra de búsqueda/acción rápida" [ref=f8e42] [cursor=pointer]
+        - button "Notificaciones" [ref=f8e46] [cursor=pointer]
+        - button "rea_discovery_member_20261029" [ref=f8e52] [cursor=pointer]
+    - generic [ref=f8e58]:
+      - complementary [ref=f8e60]:
+        - navigation "Main navigation" [ref=f8e61]:
+          - list [ref=f8e62]:
+            - listitem [ref=f8e63]:
+              - link [ref=f8e64] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=f8e68]:
+              - link [ref=f8e69] [cursor=pointer]:
+                - /url: /tasks/by/upcoming
+            - listitem [ref=f8e73]:
+              - link [ref=f8e74] [cursor=pointer]:
+                - /url: /projects
+            - listitem [ref=f8e78]:
+              - link [ref=f8e79] [cursor=pointer]:
+                - /url: /labels
+            - listitem [ref=f8e83]:
+              - link [ref=f8e84] [cursor=pointer]:
+                - /url: /teams
+        - navigation "Saved filters" [ref=f8e88]:
+          - list [ref=f8e89]:
+            - listitem [ref=f8e90]:
+              - generic [ref=f8e91]:
+                - link "My Open Tasks" [ref=f8e92] [cursor=pointer]:
+                  - /url: /projects/-8
+                - button "Mark this project as favorite" [ref=f8e98] [cursor=pointer]
+                - button "Open project settings menu" [ref=f8e103] [cursor=pointer]
+        - navigation "Proyectos" [ref=f8e107]:
+          - list [ref=f8e108]:
+            - listitem [ref=f8e109]:
+              - generic [ref=f8e110]:
+                - link "REA Inventory Project 20261029" [ref=f8e111] [cursor=pointer]:
+                  - /url: /projects/7
+                - button "Mark this project as favorite" [ref=f8e117] [cursor=pointer]
+                - button "Open project settings menu" [ref=f8e122] [cursor=pointer]
+              - list
+            - listitem [ref=f8e126]:
+              - generic [ref=f8e127]:
+                - link "Bandeja de entrada" [ref=f8e128] [cursor=pointer]:
+                  - /url: /projects/8
+                - button "Mark this project as favorite" [ref=f8e134] [cursor=pointer]
+                - button "Open project settings menu" [ref=f8e139] [cursor=pointer]
+              - list
+        - link "Con tecnología de Vikunja" [ref=f8e143] [cursor=pointer]:
+          - /url: https://vikunja.io/?utm_source=powered_by&utm_medium=navigation
+      - main [ref=f8e145]:
+        - generic [ref=f8e146]:
+          - generic [ref=f8e147]:
+            - generic [ref=f8e148]:
+              - link "Lista" [ref=f8e149] [cursor=pointer]:
+                - /url: /projects/7/45
+              - link "Gantt" [ref=f8e150] [cursor=pointer]:
+                - /url: /projects/7/46
+              - link "Tabla" [ref=f8e151] [cursor=pointer]:
+                - /url: /projects/7/47
+              - link "Kanban" [ref=f8e152] [cursor=pointer]:
+                - /url: /projects/7/48
+            - generic [ref=f8e153]:
+              - button "Sort" [ref=f8e154] [cursor=pointer]
+              - button "Filtros" [ref=f8e159] [cursor=pointer]
+          - generic [ref=f8e167]:
+            - generic [ref=f8e169]:
+              - paragraph [ref=f8e170]:
+                - generic [ref=f8e171]: Add a task…
+                - textbox "Add a task…" [ref=f8e175]
+                - button "Usar prefijos mágicos para definir fechas de vencimiento, asignados y otras propiedades de tareas." [ref=f8e176] [cursor=pointer]
+              - paragraph [ref=f8e179]:
+                - button "Añadir" [disabled]
+            - list [ref=f8e180]:
+              - generic [ref=f8e182]:
+                - generic [ref=f8e185] [cursor=pointer]:
+                  - checkbox "Mark 'REA Member Write Task 20261029' as done" [ref=f8e186]
+                  - img "Checkbox" [ref=f8e187]
+                - link "REA Member Write Task 20261029" [ref=f8e193] [cursor=pointer]:
+                  - /url: /tasks/6
+                - button "Añadir a Favoritos" [ref=f8e194] [cursor=pointer]
+              - generic [ref=f8e199]:
+                - generic [ref=f8e202] [cursor=pointer]:
+                  - checkbox "Mark 'REA Inventory Task 20261029' as done" [ref=f8e203]
+                  - img "Checkbox" [ref=f8e204]
+                - generic [ref=f8e207]:
+                  - link "REA Inventory Task 20261029" [ref=f8e210] [cursor=pointer]:
+                    - /url: /tasks/5
+                  - button [ref=f8e215] [cursor=pointer]:
+                    - time [ref=f8e216]: – Vence en 21 horas
+                - button "Añadir a Favoritos" [ref=f8e217] [cursor=pointer]
+        - button "Atajos de Teclado" [ref=f8e221] [cursor=pointer]
+  - status

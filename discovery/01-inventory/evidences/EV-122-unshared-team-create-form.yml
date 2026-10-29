@@ -1,0 +1,108 @@
+# observedAt: 2026-10-29T11:20:26Z; rol: usuario autenticado rea_discovery_20261028b; URL: /teams/new; formulario visible antes de crear equipo propio sin miembro secundario.
+- generic [ref=f75e1]:
+  - generic [ref=f75e15]:
+    - link "Skip to main content" [ref=f75e16] [cursor=pointer]:
+      - /url: "#main-content"
+    - banner "main navigation" [ref=f75e17]:
+      - link "Vikunja home" [ref=f75e18] [cursor=pointer]:
+        - /url: /
+        - img "Vikunja" [ref=f75e20]
+      - button "Oculta el menú" [expanded] [ref=f75e33] [cursor=pointer]
+      - generic [ref=f75e34]:
+        - button "Abrir la barra de búsqueda/acción rápida" [ref=f75e35] [cursor=pointer]
+        - button "Notificaciones" [ref=f75e39] [cursor=pointer]
+        - button "rea_discovery_20261028b" [ref=f75e44] [cursor=pointer]
+    - generic [ref=f75e50]:
+      - complementary [ref=f75e52]:
+        - navigation "Main navigation" [ref=f75e53]:
+          - list [ref=f75e54]:
+            - listitem [ref=f75e55]:
+              - link [ref=f75e56] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=f75e60]:
+              - link [ref=f75e61] [cursor=pointer]:
+                - /url: /tasks/by/upcoming
+            - listitem [ref=f75e65]:
+              - link [ref=f75e66] [cursor=pointer]:
+                - /url: /projects
+            - listitem [ref=f75e70]:
+              - link [ref=f75e71] [cursor=pointer]:
+                - /url: /labels
+            - listitem [ref=f75e75]:
+              - link [ref=f75e76] [cursor=pointer]:
+                - /url: /teams
+        - navigation "Saved filters" [ref=f75e80]:
+          - list [ref=f75e81]:
+            - listitem [ref=f75e82]:
+              - generic [ref=f75e83]:
+                - link "My Open Tasks" [ref=f75e84] [cursor=pointer]:
+                  - /url: /projects/-5
+                - button "Mark this project as favorite" [ref=f75e90] [cursor=pointer]
+                - button "Open project settings menu" [ref=f75e95] [cursor=pointer]
+            - listitem [ref=f75e99]:
+              - generic [ref=f75e100]:
+                - link "REA Discovery Synthetic Filter 20261028" [ref=f75e101] [cursor=pointer]:
+                  - /url: /projects/-6
+                - button "Mark this project as favorite" [ref=f75e107] [cursor=pointer]
+                - button "Open project settings menu" [ref=f75e112] [cursor=pointer]
+            - listitem [ref=f75e116]:
+              - generic [ref=f75e117]:
+                - link "REA Inventory Filter 20261029" [ref=f75e118] [cursor=pointer]:
+                  - /url: /projects/-7
+                - button "Mark this project as favorite" [ref=f75e124] [cursor=pointer]
+                - button "Open project settings menu" [ref=f75e129] [cursor=pointer]
+        - navigation "Proyectos" [ref=f75e133]:
+          - list [ref=f75e134]:
+            - listitem [ref=f75e135]:
+              - generic [ref=f75e136]:
+                - link "Bandeja de entrada" [ref=f75e137] [cursor=pointer]:
+                  - /url: /projects/4
+                - button "Mark this project as favorite" [ref=f75e143] [cursor=pointer]
+                - button "Open project settings menu" [ref=f75e148] [cursor=pointer]
+              - list
+            - listitem [ref=f75e152]:
+              - generic [ref=f75e153]:
+                - link "REA Discovery Project 20261028" [ref=f75e154] [cursor=pointer]:
+                  - /url: /projects/5
+                - button "Mark this project as favorite" [ref=f75e160] [cursor=pointer]
+                - button "Open project settings menu" [ref=f75e165] [cursor=pointer]
+              - list
+            - listitem [ref=f75e169]:
+              - generic [ref=f75e170]:
+                - link "REA Discovery Synthetic Project 20261028" [ref=f75e171] [cursor=pointer]:
+                  - /url: /projects/6
+                - button "Mark this project as favorite" [ref=f75e177] [cursor=pointer]
+                - button "Open project settings menu" [ref=f75e182] [cursor=pointer]
+              - list
+            - listitem [ref=f75e186]:
+              - generic [ref=f75e187]:
+                - link "REA Inventory Project 20261029" [ref=f75e188] [cursor=pointer]:
+                  - /url: /projects/7
+                - button "Mark this project as favorite" [ref=f75e194] [cursor=pointer]
+                - button "Open project settings menu" [ref=f75e199] [cursor=pointer]
+              - list
+            - listitem [ref=f75e203]:
+              - generic [ref=f75e204]:
+                - link "REA URL Access Project 20261029" [ref=f75e205] [cursor=pointer]:
+                  - /url: /projects/9
+                - button "Mark this project as favorite" [ref=f75e211] [cursor=pointer]
+                - button "Open project settings menu" [ref=f75e216] [cursor=pointer]
+              - list
+        - link "Con tecnología de Vikunja" [ref=f75e220] [cursor=pointer]:
+          - /url: https://vikunja.io/?utm_source=powered_by&utm_medium=navigation
+      - main [ref=f75e222]:
+        - button "Atajos de Teclado" [ref=f75e223] [cursor=pointer]
+  - dialog "Create a team" [ref=f75e227]:
+    - generic [ref=f75e228]:
+      - button "Close dialog" [active] [ref=f75e229] [cursor=pointer]
+      - generic [ref=f75e233]:
+        - banner [ref=f75e234]:
+          - paragraph [ref=f75e235]: Create a team
+        - generic [ref=f75e239]:
+          - generic [ref=f75e240]: Nombre del Equipo
+          - textbox "Nombre del Equipo" [ref=f75e242]:
+            - /placeholder: El nombre del equipo va aquí…
+        - contentinfo [ref=f75e243]:
+          - button "Cancelar" [ref=f75e244] [cursor=pointer]
+          - button "Crear" [disabled]
+    - status

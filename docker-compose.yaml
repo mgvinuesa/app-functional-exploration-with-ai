@@ -1,0 +1,32 @@
+
+services:
+  init-permissions:
+    image: alpine:3.20
+    user: "0:0"
+    command: >
+      sh -c "chown -R 1000:0 /db /files"
+    volumes:
+      - vikunja_db:/db
+      - vikunja_files:/files
+    restart: "no"
+
+  vikunja:
+    image: vikunja/vikunja:latest
+    ports:
+      - "3456:3456"
+    environment:
+      VIKUNJA_SERVICE_PUBLICURL: http://localhost:3456/
+      VIKUNJA_SERVICE_SECRET: change-this-to-a-long-random-secret
+      VIKUNJA_DATABASE_TYPE: sqlite
+      VIKUNJA_DATABASE_PATH: /db/vikunja.db
+    volumes:
+      - vikunja_db:/db
+      - vikunja_files:/app/vikunja/files
+    depends_on:
+      init-permissions:
+        condition: service_completed_successfully
+    restart: unless-stopped
+
+volumes:
+  vikunja_db:
+  vikunja_files:

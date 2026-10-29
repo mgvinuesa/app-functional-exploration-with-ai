@@ -1,0 +1,84 @@
+{
+  "observedAt": "2026-10-29T09:34:08.964Z",
+  "role": "Usuario autenticado rea_discovery_20261028b; sin rol global visible en la UI",
+  "url": "/user/settings/api-tokens",
+  "title": "Ajustes | Vikunja",
+  "headings": [],
+  "labels": [
+    "API Tokens",
+    "API tokens allow you to use Vikunja's API without user credentials. Check out the api docs ."
+  ],
+  "buttons": [
+    "Close sidebar",
+    "CREATE A TOKEN",
+    "Atajos de Teclado"
+  ],
+  "links": [
+    {
+      "text": "Ajustes Generales",
+      "path": "/user/settings/general"
+    },
+    {
+      "text": "Actualiza tu contraseña",
+      "path": "/user/settings/password-update"
+    },
+    {
+      "text": "Actualiza tu Dirección de Correo Electrónico",
+      "path": "/user/settings/email-update"
+    },
+    {
+      "text": "Avatar",
+      "path": "/user/settings/avatar"
+    },
+    {
+      "text": "Autenticación de dos factores",
+      "path": "/user/settings/totp"
+    },
+    {
+      "text": "Exportar tus datos de Vikunja",
+      "path": "/user/settings/data-export"
+    },
+    {
+      "text": "Importar desde otros servicios",
+      "path": "/user/settings/migrate"
+    },
+    {
+      "text": "CalDAV",
+      "path": "/user/settings/caldav"
+    },
+    {
+      "text": "MCP",
+      "path": "/user/settings/mcp"
+    },
+    {
+      "text": "Atom Feed",
+      "path": "/user/settings/feeds"
+    },
+    {
+      "text": "API Tokens",
+      "path": "/user/settings/api-tokens"
+    },
+    {
+      "text": "Sessions",
+      "path": "/user/settings/sessions"
+    },
+    {
+      "text": "Webhook Notifications",
+      "path": "/user/settings/webhooks"
+    },
+    {
+      "text": "Bot Users",
+      "path": "/user/settings/bots"
+    },
+    {
+      "text": "Eliminar tu Cuenta de Vikunja",
+      "path": "/user/settings/deletion"
+    },
+    {
+      "text": "Check out the api docs",
+      "path": "/api/v2/docs"
+    }
+  ],
+  "fields": [],
+  "visibleText": "Ajustes Generales\nActualiza tu contraseña\nActualiza tu Dirección de Correo Electrónico\nAvatar\nAutenticación de dos factores\nExportar tus datos de Vikunja\nImportar desde otros servicios\nCalDAV\nMCP\nAtom Feed\nAPI Tokens\nSessions\nWebhook Notifications\nBot Users\nEliminar tu Cuenta de Vikunja\n\nAPI Tokens\n\nAPI tokens allow you to use Vikunja's API without user credentials. Check out the api docs .\n\nCREATE A TOKEN\nAtajos de Teclado"
+}

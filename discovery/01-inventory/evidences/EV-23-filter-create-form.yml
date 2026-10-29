@@ -1,0 +1,133 @@
+- generic [ref=f20e1]:
+  - generic [ref=f20e15]:
+    - link "Skip to main content" [ref=f20e16] [cursor=pointer]:
+      - /url: "#main-content"
+    - banner "main navigation" [ref=f20e17]:
+      - link "Vikunja home" [ref=f20e18] [cursor=pointer]:
+        - /url: /
+        - img "Vikunja" [ref=f20e20]
+      - button "Oculta el menú" [expanded] [ref=f20e33] [cursor=pointer]
+      - generic [ref=f20e34]:
+        - button "Abrir la barra de búsqueda/acción rápida" [ref=f20e35] [cursor=pointer]
+        - button "Notificaciones" [ref=f20e39] [cursor=pointer]
+        - button "rea_discovery_20261028b" [ref=f20e44] [cursor=pointer]
+    - generic [ref=f20e50]:
+      - complementary [ref=f20e52]:
+        - navigation "Main navigation" [ref=f20e53]:
+          - list [ref=f20e54]:
+            - listitem [ref=f20e55]:
+              - link [ref=f20e56] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=f20e60]:
+              - link [ref=f20e61] [cursor=pointer]:
+                - /url: /tasks/by/upcoming
+            - listitem [ref=f20e65]:
+              - link [ref=f20e66] [cursor=pointer]:
+                - /url: /projects
+            - listitem [ref=f20e70]:
+              - link [ref=f20e71] [cursor=pointer]:
+                - /url: /labels
+            - listitem [ref=f20e75]:
+              - link [ref=f20e76] [cursor=pointer]:
+                - /url: /teams
+        - navigation "Saved filters" [ref=f20e80]:
+          - list [ref=f20e81]:
+            - listitem [ref=f20e82]:
+              - generic [ref=f20e83]:
+                - link "My Open Tasks" [ref=f20e84] [cursor=pointer]:
+                  - /url: /projects/-5
+                - button "Mark this project as favorite" [ref=f20e90] [cursor=pointer]
+                - button "Open project settings menu" [ref=f20e95] [cursor=pointer]
+            - listitem [ref=f20e99]:
+              - generic [ref=f20e100]:
+                - link "REA Discovery Synthetic Filter 20261028" [ref=f20e101] [cursor=pointer]:
+                  - /url: /projects/-6
+                - button "Mark this project as favorite" [ref=f20e107] [cursor=pointer]
+                - button "Open project settings menu" [ref=f20e112] [cursor=pointer]
+        - navigation "Proyectos" [ref=f20e116]:
+          - list [ref=f20e117]:
+            - listitem [ref=f20e118]:
+              - generic [ref=f20e119]:
+                - link "Bandeja de entrada" [ref=f20e120] [cursor=pointer]:
+                  - /url: /projects/4
+                - button "Mark this project as favorite" [ref=f20e126] [cursor=pointer]
+                - button "Open project settings menu" [ref=f20e131] [cursor=pointer]
+              - list
+            - listitem [ref=f20e135]:
+              - generic [ref=f20e136]:
+                - link "REA Discovery Project 20261028" [ref=f20e137] [cursor=pointer]:
+                  - /url: /projects/5
+                - button "Mark this project as favorite" [ref=f20e143] [cursor=pointer]
+                - button "Open project settings menu" [ref=f20e148] [cursor=pointer]
+              - list
+            - listitem [ref=f20e152]:
+              - generic [ref=f20e153]:
+                - link "REA Discovery Synthetic Project 20261028" [ref=f20e154] [cursor=pointer]:
+                  - /url: /projects/6
+                - button "Mark this project as favorite" [ref=f20e160] [cursor=pointer]
+                - button "Open project settings menu" [ref=f20e165] [cursor=pointer]
+              - list
+            - listitem [ref=f20e169]:
+              - generic [ref=f20e170]:
+                - link "REA Inventory Project 20261029" [ref=f20e171] [cursor=pointer]:
+                  - /url: /projects/7
+                - button "Mark this project as favorite" [ref=f20e177] [cursor=pointer]
+                - button "Open project settings menu" [ref=f20e182] [cursor=pointer]
+              - list
+        - link "Con tecnología de Vikunja" [ref=f20e186] [cursor=pointer]:
+          - /url: https://vikunja.io/?utm_source=powered_by&utm_medium=navigation
+      - main [ref=f20e188]:
+        - button "Atajos de Teclado" [ref=f20e189] [cursor=pointer]
+    - paragraph [ref=f20e14]: Vikunja está cargando…
+  - dialog [ref=f20e193]:
+    - generic [ref=f20e194]:
+      - button "Close dialog" [ref=f20e195] [cursor=pointer]
+      - generic [ref=f20e199]:
+        - banner [ref=f20e200]:
+          - paragraph [ref=f20e201]: Nuevo Filtro Guardado
+        - generic [ref=f20e203]:
+          - paragraph [ref=f20e204]: Un filtro guardado es un proyecto virtual que se calcula a partir de un conjunto de filtros cada vez que se accede.
+          - generic [ref=f20e205]:
+            - generic [ref=f20e206]: Título
+            - textbox "Título" [ref=f20e208]:
+              - /placeholder: El título del filtro guardado va aquí…
+          - generic [ref=f20e209]:
+            - generic [ref=f20e210]: Descripción
+            - generic [ref=f20e213]:
+              - toolbar "Text formatting" [ref=f20e214]:
+                - generic [ref=f20e215]:
+                  - button "Encabezado 1" [ref=f20e216] [cursor=pointer]
+                  - button "Encabezado 2" [ref=f20e222] [cursor=pointer]
+                  - button "Encabezado 3" [ref=f20e228] [cursor=pointer]
+                  - button "Negrita" [ref=f20e234] [cursor=pointer]
+                  - button "Cursiva" [ref=f20e239] [cursor=pointer]
+                  - button "Underline" [ref=f20e244] [cursor=pointer]
+                  - button "Tachado" [ref=f20e249] [cursor=pointer]
+                  - button "Código" [ref=f20e254] [cursor=pointer]
+                  - button "Cita" [ref=f20e259] [cursor=pointer]
+                  - button "Bullet list" [ref=f20e264] [cursor=pointer]
+                  - button "Ordered list" [ref=f20e269] [cursor=pointer]
+                  - button "Task list" [ref=f20e274] [cursor=pointer]
+                  - button "Imagen" [ref=f20e279] [cursor=pointer]
+                  - button "Enlace" [ref=f20e284] [cursor=pointer]
+                  - button "Text" [pressed] [ref=f20e289] [cursor=pointer]
+                  - button "Regla Horizontal" [ref=f20e294] [cursor=pointer]
+                  - button "Undo" [ref=f20e299] [cursor=pointer]
+                  - button "Redo" [ref=f20e304] [cursor=pointer]
+                  - button "Table" [ref=f20e309] [cursor=pointer]
+              - generic "Add a description for this filter here, hit '/' for more options…" [ref=f20e315]:
+                - paragraph [ref=f20e316]: Add a description for this filter here, hit '/' for more options…
+          - generic [ref=f20e317]:
+            - generic [ref=f20e318]: Filtros
+            - search [ref=f20e320]:
+              - generic [ref=f20e322]:
+                - textbox "Filter query" [ref=f20e326]:
+                  - paragraph [ref=f20e327]: done = false
+                - generic [ref=f20e330] [cursor=pointer]:
+                  - checkbox "Checkbox Incluye tareas que no tienen un valor establecido" [checked] [ref=f20e331]
+                  - img "Checkbox" [ref=f20e332]
+                  - generic [ref=f20e335]: Incluye tareas que no tienen un valor establecido
+                - button "How does this work?" [ref=f20e336] [cursor=pointer]
+        - contentinfo [ref=f20e337]:
+          - button "Create saved filter" [ref=f20e338] [cursor=pointer]
+    - status

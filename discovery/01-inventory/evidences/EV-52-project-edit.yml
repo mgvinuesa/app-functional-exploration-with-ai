@@ -1,0 +1,144 @@
+- generic [ref=f44e1]:
+  - generic [ref=f44e15]:
+    - link "Skip to main content" [ref=f44e16] [cursor=pointer]:
+      - /url: "#main-content"
+    - banner "main navigation" [ref=f44e17]:
+      - link "Vikunja home" [ref=f44e18] [cursor=pointer]:
+        - /url: /
+        - img "Vikunja" [ref=f44e20]
+      - button "Oculta el menú" [expanded] [ref=f44e33] [cursor=pointer]
+      - generic [ref=f44e34]:
+        - button "Abrir la barra de búsqueda/acción rápida" [ref=f44e35] [cursor=pointer]
+        - button "Notificaciones" [ref=f44e39] [cursor=pointer]
+        - button "rea_discovery_20261028b" [ref=f44e44] [cursor=pointer]
+    - generic [ref=f44e50]:
+      - complementary [ref=f44e52]:
+        - navigation "Main navigation" [ref=f44e53]:
+          - list [ref=f44e54]:
+            - listitem [ref=f44e55]:
+              - link [ref=f44e56] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=f44e60]:
+              - link [ref=f44e61] [cursor=pointer]:
+                - /url: /tasks/by/upcoming
+            - listitem [ref=f44e65]:
+              - link [ref=f44e66] [cursor=pointer]:
+                - /url: /projects
+            - listitem [ref=f44e70]:
+              - link [ref=f44e71] [cursor=pointer]:
+                - /url: /labels
+            - listitem [ref=f44e75]:
+              - link [ref=f44e76] [cursor=pointer]:
+                - /url: /teams
+        - navigation "Saved filters" [ref=f44e80]:
+          - list [ref=f44e81]:
+            - listitem [ref=f44e82]:
+              - generic [ref=f44e83]:
+                - link "My Open Tasks" [ref=f44e84] [cursor=pointer]:
+                  - /url: /projects/-5
+                - button "Mark this project as favorite" [ref=f44e90] [cursor=pointer]
+                - button "Open project settings menu" [ref=f44e95] [cursor=pointer]
+            - listitem [ref=f44e99]:
+              - generic [ref=f44e100]:
+                - link "REA Discovery Synthetic Filter 20261028" [ref=f44e101] [cursor=pointer]:
+                  - /url: /projects/-6
+                - button "Mark this project as favorite" [ref=f44e107] [cursor=pointer]
+                - button "Open project settings menu" [ref=f44e112] [cursor=pointer]
+            - listitem [ref=f44e116]:
+              - generic [ref=f44e117]:
+                - link "REA Inventory Filter 20261029" [ref=f44e118] [cursor=pointer]:
+                  - /url: /projects/-7
+                - button "Mark this project as favorite" [ref=f44e124] [cursor=pointer]
+                - button "Open project settings menu" [ref=f44e129] [cursor=pointer]
+        - navigation "Proyectos" [ref=f44e133]:
+          - list [ref=f44e134]:
+            - listitem [ref=f44e135]:
+              - generic [ref=f44e136]:
+                - link "Bandeja de entrada" [ref=f44e137] [cursor=pointer]:
+                  - /url: /projects/4
+                - button "Mark this project as favorite" [ref=f44e143] [cursor=pointer]
+                - button "Open project settings menu" [ref=f44e148] [cursor=pointer]
+              - list
+            - listitem [ref=f44e152]:
+              - generic [ref=f44e153]:
+                - link "REA Discovery Project 20261028" [ref=f44e154] [cursor=pointer]:
+                  - /url: /projects/5
+                - button "Mark this project as favorite" [ref=f44e160] [cursor=pointer]
+                - button "Open project settings menu" [ref=f44e165] [cursor=pointer]
+              - list
+            - listitem [ref=f44e169]:
+              - generic [ref=f44e170]:
+                - link "REA Discovery Synthetic Project 20261028" [ref=f44e171] [cursor=pointer]:
+                  - /url: /projects/6
+                - button "Mark this project as favorite" [ref=f44e177] [cursor=pointer]
+                - button "Open project settings menu" [ref=f44e182] [cursor=pointer]
+              - list
+            - listitem [ref=f44e186]:
+              - generic [ref=f44e187]:
+                - link "REA Inventory Project 20261029" [ref=f44e188] [cursor=pointer]:
+                  - /url: /projects/7
+                - button "Mark this project as favorite" [ref=f44e194] [cursor=pointer]
+                - button "Open project settings menu" [ref=f44e199] [cursor=pointer]
+              - list
+        - link "Con tecnología de Vikunja" [ref=f44e203] [cursor=pointer]:
+          - /url: https://vikunja.io/?utm_source=powered_by&utm_medium=navigation
+      - main [ref=f44e205]:
+        - button "Atajos de Teclado" [ref=f44e206] [cursor=pointer]
+    - paragraph [ref=f44e14]: Vikunja está cargando…
+  - dialog "Editar este Proyecto" [ref=f44e210]:
+    - generic [ref=f44e211]:
+      - button "Close dialog" [ref=f44e212] [cursor=pointer]
+      - generic [ref=f44e216]:
+        - banner [ref=f44e217]:
+          - paragraph [ref=f44e218]: Editar este Proyecto
+        - generic [ref=f44e221]:
+          - generic [ref=f44e222]:
+            - generic [ref=f44e223]: Title
+            - textbox "Title" [ref=f44e225]:
+              - /placeholder: El título del proyecto va aquí…
+              - text: REA Inventory Project 20261029
+          - generic [ref=f44e226]:
+            - generic [ref=f44e227]: Proyecto principal
+            - combobox "Escribe para buscar un proyecto…" [ref=f44e232]
+          - generic [ref=f44e233]:
+            - generic [ref=f44e234]: Descripción
+            - generic [ref=f44e237]:
+              - toolbar "Text formatting" [ref=f44e238]:
+                - generic [ref=f44e239]:
+                  - button "Encabezado 1" [ref=f44e240] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f44e244]: "1"
+                  - button "Encabezado 2" [ref=f44e246] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f44e250]: "2"
+                  - button "Encabezado 3" [ref=f44e252] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f44e256]: "3"
+                  - button "Negrita" [ref=f44e258] [cursor=pointer]
+                  - button "Cursiva" [ref=f44e263] [cursor=pointer]
+                  - button "Underline" [ref=f44e268] [cursor=pointer]
+                  - button "Tachado" [ref=f44e273] [cursor=pointer]
+                  - button "Código" [ref=f44e278] [cursor=pointer]
+                  - button "Cita" [ref=f44e283] [cursor=pointer]
+                  - button "Bullet list" [ref=f44e288] [cursor=pointer]
+                  - button "Ordered list" [ref=f44e293] [cursor=pointer]
+                  - button "Task list" [ref=f44e298] [cursor=pointer]
+                  - button "Imagen" [ref=f44e303] [cursor=pointer]
+                  - button "Enlace" [ref=f44e308] [cursor=pointer]
+                  - button "Text" [pressed] [ref=f44e313] [cursor=pointer]
+                  - button "Regla Horizontal" [ref=f44e318] [cursor=pointer]
+                  - button "Undo" [ref=f44e323] [cursor=pointer]
+                  - button "Redo" [ref=f44e328] [cursor=pointer]
+                  - button "Table" [ref=f44e333] [cursor=pointer]
+              - generic "Enter a description for this project, hit '/' for more options…" [ref=f44e339]:
+                - paragraph [ref=f44e340]: Enter a description for this project, hit '/' for more options…
+          - generic [ref=f44e341]:
+            - generic [ref=f44e343]:
+              - generic [ref=f44e344]: Identificador del proyecto
+              - textbox "Identificador del proyecto" [ref=f44e346]:
+                - /placeholder: El identificador del proyecto va aquí…
+            - generic [ref=f44e348]:
+              - generic [ref=f44e349]: Color
+              - textbox "Project color" [ref=f44e353]: "#000000"
+        - contentinfo [ref=f44e354]:
+          - button "Eliminar" [ref=f44e355] [cursor=pointer]
+          - button "Cancelar" [ref=f44e357] [cursor=pointer]
+          - button "Guardar" [ref=f44e359] [cursor=pointer]
+    - status

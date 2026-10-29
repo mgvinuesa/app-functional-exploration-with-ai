@@ -1,0 +1,96 @@
+{
+  "observedAt": "2026-10-29T09:34:32.917Z",
+  "role": "Usuario autenticado rea_discovery_20261028b; sin rol global visible en la UI",
+  "url": "/user/settings/bots",
+  "title": "Bot Users | Vikunja",
+  "headings": [
+    "Bot Users"
+  ],
+  "labels": [
+    "Bot users are API-only users you own. They can be added to projects, assigned tasks, and authenticated with API tokens. They cannot log in interactively.",
+    "Nombre de usuario",
+    "Name"
+  ],
+  "buttons": [
+    "Close sidebar",
+    "CREATE BOT",
+    "Atajos de Teclado"
+  ],
+  "links": [
+    {
+      "text": "Ajustes Generales",
+      "path": "/user/settings/general"
+    },
+    {
+      "text": "Actualiza tu contraseña",
+      "path": "/user/settings/password-update"
+    },
+    {
+      "text": "Actualiza tu Dirección de Correo Electrónico",
+      "path": "/user/settings/email-update"
+    },
+    {
+      "text": "Avatar",
+      "path": "/user/settings/avatar"
+    },
+    {
+      "text": "Autenticación de dos factores",
+      "path": "/user/settings/totp"
+    },
+    {
+      "text": "Exportar tus datos de Vikunja",
+      "path": "/user/settings/data-export"
+    },
+    {
+      "text": "Importar desde otros servicios",
+      "path": "/user/settings/migrate"
+    },
+    {
+      "text": "CalDAV",
+      "path": "/user/settings/caldav"
+    },
+    {
+      "text": "MCP",
+      "path": "/user/settings/mcp"
+    },
+    {
+      "text": "Atom Feed",
+      "path": "/user/settings/feeds"
+    },
+    {
+      "text": "API Tokens",
+      "path": "/user/settings/api-tokens"
+    },
+    {
+      "text": "Sessions",
+      "path": "/user/settings/sessions"
+    },
+    {
+      "text": "Webhook Notifications",
+      "path": "/user/settings/webhooks"
+    },
+    {
+      "text": "Bot Users",
+      "path": "/user/settings/bots"
+    },
+    {
+      "text": "Eliminar tu Cuenta de Vikunja",
+      "path": "/user/settings/deletion"
+    }
+  ],
+  "fields": [
+    {
+      "type": "text",
+      "name": "",
+      "placeholder": "bot-myassistant",
+      "label": "Nombre de usuario"
+    },
+    {
+      "type": "text",
+      "name": "",
+      "placeholder": "My Assistant",
+      "label": "Name"
+    }
+  ],
+  "visibleText": "Ajustes Generales\nActualiza tu contraseña\nActualiza tu Dirección de Correo Electrónico\nAvatar\nAutenticación de dos factores\nExportar tus datos de Vikunja\nImportar desde otros servicios\nCalDAV\nMCP\nAtom Feed\nAPI Tokens\nSessions\nWebhook Notifications\nBot Users\nEliminar tu Cuenta de Vikunja\nBot Users\n\nBot users are API-only users you own. They can be added to projects, assigned tasks, and authenticated with API tokens. They cannot log in interactively.\n\nNombre de usuario\nName\nCREATE BOT\nAtajos de Teclado"
+}

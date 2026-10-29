@@ -1,0 +1,124 @@
+- generic [ref=f26e1]:
+  - generic [ref=f26e15]:
+    - link "Skip to main content" [ref=f26e16] [cursor=pointer]:
+      - /url: "#main-content"
+    - banner "main navigation" [ref=f26e17]:
+      - link "Vikunja home" [ref=f26e18] [cursor=pointer]:
+        - /url: /
+        - img "Vikunja" [ref=f26e20]
+      - button "Oculta el menú" [expanded] [ref=f26e33] [cursor=pointer]
+      - generic [ref=f26e34]:
+        - button "Abrir la barra de búsqueda/acción rápida" [ref=f26e35] [cursor=pointer]
+        - generic [ref=f26e38]:
+          - button "Notificaciones" [expanded] [ref=f26e39] [cursor=pointer]
+          - generic [ref=f26e366]:
+            - generic [ref=f26e367]:
+              - generic [ref=f26e368]: Notificaciones
+              - link "Subscribe to notifications via Atom feed" [ref=f26e370] [cursor=pointer]:
+                - /url: /user/settings/feeds
+            - paragraph [ref=f26e374]: No tienes notificaciones. ¡Que tengas un buen día!Notifications will appear here when actions, projects or tasks you subscribed to happen.
+        - button "rea_discovery_20261028b" [ref=f26e44] [cursor=pointer]
+    - generic [ref=f26e50]:
+      - complementary [ref=f26e52]:
+        - navigation "Main navigation" [ref=f26e53]:
+          - list [ref=f26e54]:
+            - listitem [ref=f26e55]:
+              - link "Resumen" [ref=f26e56] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=f26e60]:
+              - link "Próximas" [ref=f26e61] [cursor=pointer]:
+                - /url: /tasks/by/upcoming
+            - listitem [ref=f26e65]:
+              - link "Proyectos" [ref=f26e66] [cursor=pointer]:
+                - /url: /projects
+            - listitem [ref=f26e70]:
+              - link "Etiquetas" [ref=f26e71] [cursor=pointer]:
+                - /url: /labels
+            - listitem [ref=f26e75]:
+              - link "Equipos" [ref=f26e76] [cursor=pointer]:
+                - /url: /teams
+        - navigation "Saved filters" [ref=f26e80]:
+          - list [ref=f26e81]:
+            - listitem [ref=f26e82]:
+              - generic [ref=f26e83]:
+                - link "My Open Tasks" [ref=f26e84] [cursor=pointer]:
+                  - /url: /projects/-5
+                - button "Mark this project as favorite" [ref=f26e90] [cursor=pointer]
+                - button "Open project settings menu" [ref=f26e95] [cursor=pointer]
+            - listitem [ref=f26e99]:
+              - generic [ref=f26e100]:
+                - link "REA Discovery Synthetic Filter 20261028" [ref=f26e101] [cursor=pointer]:
+                  - /url: /projects/-6
+                - button "Mark this project as favorite" [ref=f26e107] [cursor=pointer]
+                - button "Open project settings menu" [ref=f26e112] [cursor=pointer]
+            - listitem [ref=f26e116]:
+              - generic [ref=f26e117]:
+                - link "REA Inventory Filter 20261029" [ref=f26e118] [cursor=pointer]:
+                  - /url: /projects/-7
+                - button "Mark this project as favorite" [ref=f26e124] [cursor=pointer]
+                - button "Open project settings menu" [ref=f26e129] [cursor=pointer]
+        - navigation "Proyectos" [ref=f26e133]:
+          - list [ref=f26e134]:
+            - listitem [ref=f26e135]:
+              - generic [ref=f26e136]:
+                - link "Bandeja de entrada" [ref=f26e137] [cursor=pointer]:
+                  - /url: /projects/4
+                - button "Mark this project as favorite" [ref=f26e143] [cursor=pointer]
+                - button "Open project settings menu" [ref=f26e148] [cursor=pointer]
+              - list
+            - listitem [ref=f26e152]:
+              - generic [ref=f26e153]:
+                - link "REA Discovery Project 20261028" [ref=f26e154] [cursor=pointer]:
+                  - /url: /projects/5
+                - button "Mark this project as favorite" [ref=f26e160] [cursor=pointer]
+                - button "Open project settings menu" [ref=f26e165] [cursor=pointer]
+              - list
+            - listitem [ref=f26e169]:
+              - generic [ref=f26e170]:
+                - link "REA Discovery Synthetic Project 20261028" [ref=f26e171] [cursor=pointer]:
+                  - /url: /projects/6
+                - button "Mark this project as favorite" [ref=f26e177] [cursor=pointer]
+                - button "Open project settings menu" [ref=f26e182] [cursor=pointer]
+              - list
+            - listitem [ref=f26e186]:
+              - generic [ref=f26e187]:
+                - link "REA Inventory Project 20261029" [ref=f26e188] [cursor=pointer]:
+                  - /url: /projects/7
+                - button "Mark this project as favorite" [ref=f26e194] [cursor=pointer]
+                - button "Open project settings menu" [ref=f26e199] [cursor=pointer]
+              - list
+        - link "Con tecnología de Vikunja" [ref=f26e203] [cursor=pointer]:
+          - /url: https://vikunja.io/?utm_source=powered_by&utm_medium=navigation
+      - main [ref=f26e205]:
+        - generic [ref=f26e206]:
+          - heading "Welcome back, rea_discovery_20261028b" [level=1] [ref=f26e207]
+          - generic [ref=f26e209]:
+            - paragraph [ref=f26e210]:
+              - generic [ref=f26e211]: Add a task…
+              - textbox "Add a task…" [ref=f26e215]
+              - button "Usar prefijos mágicos para definir fechas de vencimiento, asignados y otras propiedades de tareas." [ref=f26e216] [cursor=pointer]
+            - paragraph [ref=f26e219]:
+              - button "Añadir" [disabled]
+          - generic [ref=f26e220]:
+            - heading "Visto por última vez" [level=2] [ref=f26e221]
+            - list [ref=f26e222]:
+              - listitem [ref=f26e223]:
+                - generic [ref=f26e224]
+              - listitem [ref=f26e237]:
+                - generic [ref=f26e238]
+              - listitem [ref=f26e251]:
+                - generic [ref=f26e252]
+              - listitem [ref=f26e265]:
+                - generic [ref=f26e266]
+          - generic [ref=f26e279]:
+            - heading "Tareas en Curso" [level=2] [ref=f26e280]
+            - list [ref=f26e284]:
+              - listitem [ref=f26e285]:
+                - generic [ref=f26e287] [cursor=pointer]
+              - listitem [ref=f26e306]:
+                - generic [ref=f26e308] [cursor=pointer]
+              - listitem [ref=f26e343]:
+                - generic [ref=f26e345] [cursor=pointer]
+        - button "Atajos de Teclado" [ref=f26e362] [cursor=pointer]
+    - paragraph [ref=f26e14]: Vikunja está cargando…
+  - status

@@ -1,0 +1,200 @@
+- generic [ref=f25e1]:
+  - generic [ref=f25e15]:
+    - link "Skip to main content" [ref=f25e16] [cursor=pointer]:
+      - /url: "#main-content"
+    - banner "main navigation" [ref=f25e17]:
+      - link "Vikunja home" [ref=f25e18] [cursor=pointer]:
+        - /url: /
+        - img "Vikunja" [ref=f25e20]
+      - button "Oculta el menú" [expanded] [ref=f25e33] [cursor=pointer]
+      - generic [ref=f25e34]:
+        - generic [ref=f25e35]: REA Inventory Project 20261029
+        - button "Open project settings menu" [ref=f25e37] [cursor=pointer]
+      - generic [ref=f25e41]:
+        - button "Abrir la barra de búsqueda/acción rápida" [ref=f25e42] [cursor=pointer]
+        - button "Notificaciones" [ref=f25e46] [cursor=pointer]
+        - button "rea_discovery_20261028b" [ref=f25e51] [cursor=pointer]
+    - generic [ref=f25e57]:
+      - complementary [ref=f25e59]:
+        - navigation "Main navigation" [ref=f25e60]:
+          - list [ref=f25e61]:
+            - listitem [ref=f25e62]:
+              - link [ref=f25e63] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=f25e67]:
+              - link [ref=f25e68] [cursor=pointer]:
+                - /url: /tasks/by/upcoming
+            - listitem [ref=f25e72]:
+              - link [ref=f25e73] [cursor=pointer]:
+                - /url: /projects
+            - listitem [ref=f25e77]:
+              - link [ref=f25e78] [cursor=pointer]:
+                - /url: /labels
+            - listitem [ref=f25e82]:
+              - link [ref=f25e83] [cursor=pointer]:
+                - /url: /teams
+        - navigation "Saved filters" [ref=f25e87]:
+          - list [ref=f25e88]:
+            - listitem [ref=f25e89]:
+              - generic [ref=f25e90]:
+                - link "My Open Tasks" [ref=f25e91] [cursor=pointer]:
+                  - /url: /projects/-5
+                - button "Mark this project as favorite" [ref=f25e97] [cursor=pointer]
+                - button "Open project settings menu" [ref=f25e102] [cursor=pointer]
+            - listitem [ref=f25e106]:
+              - generic [ref=f25e107]:
+                - link "REA Discovery Synthetic Filter 20261028" [ref=f25e108] [cursor=pointer]:
+                  - /url: /projects/-6
+                - button "Mark this project as favorite" [ref=f25e114] [cursor=pointer]
+                - button "Open project settings menu" [ref=f25e119] [cursor=pointer]
+            - listitem [ref=f25e123]:
+              - generic [ref=f25e124]:
+                - link "REA Inventory Filter 20261029" [ref=f25e125] [cursor=pointer]:
+                  - /url: /projects/-7
+                - button "Mark this project as favorite" [ref=f25e131] [cursor=pointer]
+                - button "Open project settings menu" [ref=f25e136] [cursor=pointer]
+        - navigation "Proyectos" [ref=f25e140]:
+          - list [ref=f25e141]:
+            - listitem [ref=f25e142]:
+              - generic [ref=f25e143]:
+                - link "Bandeja de entrada" [ref=f25e144] [cursor=pointer]:
+                  - /url: /projects/4
+                - button "Mark this project as favorite" [ref=f25e150] [cursor=pointer]
+                - button "Open project settings menu" [ref=f25e155] [cursor=pointer]
+              - list
+            - listitem [ref=f25e159]:
+              - generic [ref=f25e160]:
+                - link "REA Discovery Project 20261028" [ref=f25e161] [cursor=pointer]:
+                  - /url: /projects/5
+                - button "Mark this project as favorite" [ref=f25e167] [cursor=pointer]
+                - button "Open project settings menu" [ref=f25e172] [cursor=pointer]
+              - list
+            - listitem [ref=f25e176]:
+              - generic [ref=f25e177]:
+                - link "REA Discovery Synthetic Project 20261028" [ref=f25e178] [cursor=pointer]:
+                  - /url: /projects/6
+                - button "Mark this project as favorite" [ref=f25e184] [cursor=pointer]
+                - button "Open project settings menu" [ref=f25e189] [cursor=pointer]
+              - list
+            - listitem [ref=f25e193]:
+              - generic [ref=f25e194]:
+                - link "REA Inventory Project 20261029" [ref=f25e195] [cursor=pointer]:
+                  - /url: /projects/7
+                - button "Mark this project as favorite" [ref=f25e201] [cursor=pointer]
+                - button "Open project settings menu" [ref=f25e206] [cursor=pointer]
+              - list
+        - link "Con tecnología de Vikunja" [ref=f25e210] [cursor=pointer]:
+          - /url: https://vikunja.io/?utm_source=powered_by&utm_medium=navigation
+      - main [ref=f25e212]:
+        - generic [ref=f25e213]:
+          - generic [ref=f25e216]:
+            - button "Sort" [ref=f25e217] [cursor=pointer]
+            - button "Filtros" [ref=f25e222] [cursor=pointer]
+          - generic [ref=f25e230]:
+            - generic [ref=f25e232]:
+              - paragraph [ref=f25e233]:
+                - generic [ref=f25e234]: Add a task…
+                - textbox "Add a task…" [ref=f25e238]
+                - button "Usar prefijos mágicos para definir fechas de vencimiento, asignados y otras propiedades de tareas." [ref=f25e239] [cursor=pointer]
+              - paragraph [ref=f25e242]:
+                - button "Añadir" [disabled]
+            - list [ref=f25e243]:
+              - generic [ref=f25e245]:
+                - generic [ref=f25e248] [cursor=pointer]:
+                  - checkbox "Mark 'REA Inventory Task 20261029' as done" [ref=f25e249]
+                  - img "Checkbox" [ref=f25e250]
+                - generic [ref=f25e253]:
+                  - link "REA Inventory Task 20261029" [ref=f25e256] [cursor=pointer]:
+                    - /url: /tasks/5
+                  - button "– Vence en un día" [ref=f25e257] [cursor=pointer]:
+                    - time [ref=f25e258]: – Vence en un día
+                - button "Añadir a Favoritos" [ref=f25e259] [cursor=pointer]
+        - button "Atajos de Teclado" [ref=f25e263] [cursor=pointer]
+    - paragraph [ref=f25e14]: Vikunja está cargando…
+  - dialog "Search and quick actions" [ref=f25e319]:
+    - generic [ref=f25e320]:
+      - button "Close dialog" [ref=f25e321] [cursor=pointer]
+      - generic [ref=f25e325]:
+        - textbox "Escriba un comando o búsqueda…" [ref=f25e327]
+        - generic [ref=f25e328]: Puedes usar + para limitar la búsqueda a un proyecto. Combina + o * (etiquetas) con una consulta de búsqueda para buscar una tarea con estas etiquetas o en ese proyecto. Usa @ para buscar sólo equipos.
+        - status [ref=f25e329]
+        - generic [ref=f25e330]:
+          - generic [ref=f25e331]:
+            - generic [ref=f25e332]: Comandos
+            - generic [ref=f25e333]:
+              - button "Nueva tarea Command" [ref=f25e334] [cursor=pointer]:
+                - text: Nueva tarea
+                - generic [ref=f25e335]: Command
+              - button "Nuevo proyecto Command" [ref=f25e336] [cursor=pointer]:
+                - text: Nuevo proyecto
+                - generic [ref=f25e337]: Command
+              - button "Nuevo equipo Command" [ref=f25e338] [cursor=pointer]:
+                - text: Nuevo equipo
+                - generic [ref=f25e339]: Command
+          - generic [ref=f25e340]:
+            - generic [ref=f25e341]: Proyectos
+            - generic [ref=f25e342]:
+              - button "REA Inventory Project 20261029 Project" [ref=f25e343] [cursor=pointer]:
+                - text: REA Inventory Project 20261029
+                - generic [ref=f25e344]: Project
+              - button "REA Inventory Filter 20261029 Project" [ref=f25e345] [cursor=pointer]:
+                - text: REA Inventory Filter 20261029
+                - generic [ref=f25e349]: Project
+              - button "REA Discovery Synthetic Filter 20261028 Project" [ref=f25e350] [cursor=pointer]:
+                - text: REA Discovery Synthetic Filter 20261028
+                - generic [ref=f25e354]: Project
+              - button "REA Discovery Project 20261028 Project" [ref=f25e355] [cursor=pointer]:
+                - text: REA Discovery Project 20261028
+                - generic [ref=f25e356]: Project
+              - button "REA Discovery Synthetic Project 20261028 Project" [ref=f25e357] [cursor=pointer]:
+                - text: REA Discovery Synthetic Project 20261028
+                - generic [ref=f25e358]: Project
+  - dialog [ref=f25e267]:
+    - generic [ref=f25e268]:
+      - button "Close dialog" [ref=f25e269] [cursor=pointer]
+      - generic [ref=f25e273]:
+        - banner [ref=f25e274]:
+          - paragraph [ref=f25e275]: Añadido Rápido Mágico
+        - generic [ref=f25e277]:
+          - paragraph [ref=f25e278]: Al crear una tarea, puede utilizar palabras clave especiales para añadir directamente atributos a la tarea recién creada. Esto permite agregar atributos comúnmente usados en tareas mucho más rápido.
+          - heading "Etiquetas" [level=3] [ref=f25e279]
+          - paragraph [ref=f25e280]: Para añadir una etiqueta, simplemente prefija el nombre de la etiqueta con *. Vikunja comprobará primero si la etiqueta ya existe y la creará en caso contrario. Puedes usar esto varias veces.
+          - paragraph [ref=f25e281]: "Para utilizar espacios, simplemente añada un \" o ' alrededor del nombre de la etiqueta. Por ejemplo: *\"Etiqueta con espacios\"."
+          - heading "Prioridad" [level=3] [ref=f25e282]
+          - paragraph [ref=f25e283]: Para establecer la prioridad de una tarea, agregue un número 1-5, prefijado por !. Cuanto mayor sea el número, mayor será la prioridad.
+          - heading "Responsables" [level=3] [ref=f25e284]
+          - paragraph [ref=f25e285]: Para asignar directamente la tarea a un usuario, agregue su nombre de usuario con el prefijo @ a la tarea. Puedes usar esto varias veces.
+          - heading "Proyectos" [level=3] [ref=f25e286]
+          - paragraph [ref=f25e287]: Para establecer un proyecto para que la tarea aparezca en ella, introduzca su nombre con el prefijo +. Esto devolverá un error si el proyecto no existe.
+          - paragraph [ref=f25e288]: "Para usar espacios, simplemente añada un \" o ' alrededor del nombre del proyecto. Por ejemplo: +\"Proyecto con espacios\"."
+          - heading "Fecha y hora" [level=3] [ref=f25e289]
+          - paragraph [ref=f25e290]: "Cualquier fecha se utilizará como fecha de vencimiento de la tarea nueva. Puede utilizar fechas en cualquiera de estos formatos:"
+          - list [ref=f25e291]:
+            - listitem [ref=f25e292]: Today
+            - listitem [ref=f25e293]: Tonight
+            - listitem [ref=f25e294]: Tomorrow
+            - listitem [ref=f25e295]: Next monday
+            - listitem [ref=f25e296]: This weekend
+            - listitem [ref=f25e297]: Later this week
+            - listitem [ref=f25e298]: Later next week
+            - listitem [ref=f25e299]: Next week
+            - listitem [ref=f25e300]: Next month
+            - listitem [ref=f25e301]: End of month
+            - listitem [ref=f25e302]: In 5 days [hours/weeks/months]
+            - listitem [ref=f25e303]: Tuesday (any weekday, will use the next date with that day)
+            - listitem [ref=f25e304]: 02/17/2021
+            - listitem [ref=f25e305]: 2021-02-17
+            - listitem [ref=f25e306]: 17.02.2021
+            - listitem [ref=f25e307]: Feb 17 (se usará el año actual)
+            - listitem [ref=f25e308]: 17th (se usará el 17º del mes actual)
+          - paragraph [ref=f25e309]: Combina cualquiera de los formatos de fecha con "at 17:00" (o 5pm) para establecer la hora.
+          - heading "Tareas repetitivas" [level=3] [ref=f25e310]
+          - paragraph [ref=f25e311]: "Para establecer una tarea repetitiva en un intervalo, simplemente añade 'every {amount} {type}' al texto de la tarea. La cantidad debe ser un número y puede ser omitido para utilizar solo el tipo (ver ejemplos)."
+          - paragraph [ref=f25e312]: "Por ejemplo:"
+          - list [ref=f25e313]:
+            - listitem [ref=f25e314]: Every day
+            - listitem [ref=f25e315]: Every 3 days
+            - listitem [ref=f25e316]: Every week
+            - listitem [ref=f25e317]: Every 2 weeks
+            - listitem [ref=f25e318]: Every month
+    - status

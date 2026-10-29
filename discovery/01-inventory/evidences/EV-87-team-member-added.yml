@@ -1,0 +1,150 @@
+# observedAt: 2026-10-29T10:58:55Z; rol: usuario autenticado rea_discovery_20261028b (administrador del equipo sintético); URL: /teams/3/edit; agregó rea_discovery_member_20261029 como miembro.
+- generic [ref=f67e1]:
+  - generic [ref=f67e15]:
+    - link "Skip to main content" [ref=f67e16] [cursor=pointer]:
+      - /url: "#main-content"
+    - banner "main navigation" [ref=f67e17]:
+      - link "Vikunja home" [ref=f67e18] [cursor=pointer]:
+        - /url: /
+        - img "Vikunja" [ref=f67e20]
+      - button "Oculta el menú" [expanded] [ref=f67e33] [cursor=pointer]
+      - generic [ref=f67e34]:
+        - button "Abrir la barra de búsqueda/acción rápida" [ref=f67e35] [cursor=pointer]
+        - button "Notificaciones" [ref=f67e39] [cursor=pointer]
+        - button "rea_discovery_20261028b" [ref=f67e44] [cursor=pointer]
+    - generic [ref=f67e50]:
+      - complementary [ref=f67e52]:
+        - navigation "Main navigation" [ref=f67e53]:
+          - list [ref=f67e54]:
+            - listitem [ref=f67e55]:
+              - link [ref=f67e56] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=f67e60]:
+              - link [ref=f67e61] [cursor=pointer]:
+                - /url: /tasks/by/upcoming
+            - listitem [ref=f67e65]:
+              - link [ref=f67e66] [cursor=pointer]:
+                - /url: /projects
+            - listitem [ref=f67e70]:
+              - link [ref=f67e71] [cursor=pointer]:
+                - /url: /labels
+            - listitem [ref=f67e75]:
+              - link [ref=f67e76] [cursor=pointer]:
+                - /url: /teams
+        - navigation "Saved filters" [ref=f67e80]:
+          - list [ref=f67e81]:
+            - listitem [ref=f67e82]:
+              - generic [ref=f67e83]:
+                - link "My Open Tasks" [ref=f67e84] [cursor=pointer]:
+                  - /url: /projects/-5
+                - button "Mark this project as favorite" [ref=f67e90] [cursor=pointer]
+                - button "Open project settings menu" [ref=f67e95] [cursor=pointer]
+            - listitem [ref=f67e99]:
+              - generic [ref=f67e100]:
+                - link "REA Discovery Synthetic Filter 20261028" [ref=f67e101] [cursor=pointer]:
+                  - /url: /projects/-6
+                - button "Mark this project as favorite" [ref=f67e107] [cursor=pointer]
+                - button "Open project settings menu" [ref=f67e112] [cursor=pointer]
+            - listitem [ref=f67e116]:
+              - generic [ref=f67e117]:
+                - link "REA Inventory Filter 20261029" [ref=f67e118] [cursor=pointer]:
+                  - /url: /projects/-7
+                - button "Mark this project as favorite" [ref=f67e124] [cursor=pointer]
+                - button "Open project settings menu" [ref=f67e129] [cursor=pointer]
+        - navigation "Proyectos" [ref=f67e133]:
+          - list [ref=f67e134]:
+            - listitem [ref=f67e135]:
+              - generic [ref=f67e136]:
+                - link "Bandeja de entrada" [ref=f67e137] [cursor=pointer]:
+                  - /url: /projects/4
+                - button "Mark this project as favorite" [ref=f67e143] [cursor=pointer]
+                - button "Open project settings menu" [ref=f67e148] [cursor=pointer]
+              - list
+            - listitem [ref=f67e152]:
+              - generic [ref=f67e153]:
+                - link "REA Discovery Project 20261028" [ref=f67e154] [cursor=pointer]:
+                  - /url: /projects/5
+                - button "Mark this project as favorite" [ref=f67e160] [cursor=pointer]
+                - button "Open project settings menu" [ref=f67e165] [cursor=pointer]
+              - list
+            - listitem [ref=f67e169]:
+              - generic [ref=f67e170]:
+                - link "REA Discovery Synthetic Project 20261028" [ref=f67e171] [cursor=pointer]:
+                  - /url: /projects/6
+                - button "Mark this project as favorite" [ref=f67e177] [cursor=pointer]
+                - button "Open project settings menu" [ref=f67e182] [cursor=pointer]
+              - list
+            - listitem [ref=f67e186]:
+              - generic [ref=f67e187]:
+                - link "REA Inventory Project 20261029" [ref=f67e188] [cursor=pointer]:
+                  - /url: /projects/7
+                - button "Mark this project as favorite" [ref=f67e194] [cursor=pointer]
+                - button "Open project settings menu" [ref=f67e199] [cursor=pointer]
+              - list
+        - link "Con tecnología de Vikunja" [ref=f67e203] [cursor=pointer]:
+          - /url: https://vikunja.io/?utm_source=powered_by&utm_medium=navigation
+      - main [ref=f67e205]:
+        - generic [ref=f67e206]:
+          - generic [ref=f67e207]:
+            - paragraph [ref=f67e209]: Editar Equipo "REA Discovery Team 20261029"
+            - generic [ref=f67e212]:
+              - generic [ref=f67e213]:
+                - generic [ref=f67e214]: Nombre del Equipo
+                - textbox "Nombre del Equipo" [ref=f67e216]:
+                  - /placeholder: El nombre del equipo va aquí…
+                  - text: REA Discovery Team 20261029
+              - generic [ref=f67e217]:
+                - generic [ref=f67e218]: Descripción
+                - generic [ref=f67e221]:
+                  - toolbar "Text formatting" [ref=f67e222]:
+                    - generic [ref=f67e223]:
+                      - button "Encabezado 1" [ref=f67e224] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f67e228]: "1"
+                      - button "Encabezado 2" [ref=f67e230] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f67e234]: "2"
+                      - button "Encabezado 3" [ref=f67e236] [cursor=pointer]:
+                        - generic [aria-hidden] [ref=f67e240]: "3"
+                      - button "Negrita" [ref=f67e242] [cursor=pointer]
+                      - button "Cursiva" [ref=f67e247] [cursor=pointer]
+                      - button "Underline" [ref=f67e252] [cursor=pointer]
+                      - button "Tachado" [ref=f67e257] [cursor=pointer]
+                      - button "Código" [ref=f67e262] [cursor=pointer]
+                      - button "Cita" [ref=f67e267] [cursor=pointer]
+                      - button "Bullet list" [ref=f67e272] [cursor=pointer]
+                      - button "Ordered list" [ref=f67e277] [cursor=pointer]
+                      - button "Task list" [ref=f67e282] [cursor=pointer]
+                      - button "Imagen" [ref=f67e287] [cursor=pointer]
+                      - button "Enlace" [ref=f67e292] [cursor=pointer]
+                      - button "Text" [pressed] [ref=f67e297] [cursor=pointer]
+                      - button "Regla Horizontal" [ref=f67e302] [cursor=pointer]
+                      - button "Undo" [ref=f67e307] [cursor=pointer]
+                      - button "Redo" [ref=f67e312] [cursor=pointer]
+                      - button "Table" [ref=f67e317] [cursor=pointer]
+                  - generic "Describe the team here, hit '/' for more options…" [ref=f67e323]:
+                    - paragraph [ref=f67e324]: Describe the team here, hit '/' for more options…
+              - generic [ref=f67e325]:
+                - button "Guardar" [ref=f67e327] [cursor=pointer]
+                - button "Eliminar el equipo" [ref=f67e330] [cursor=pointer]
+          - generic [ref=f67e333]:
+            - paragraph [ref=f67e335]: Miembros del Equipo
+            - generic [ref=f67e337]:
+              - generic [ref=f67e339]:
+                - combobox "Escriba para buscar a un usuario…" [ref=f67e344]
+                - button "Añadir al equipo" [active] [ref=f67e346] [cursor=pointer]
+              - table [ref=f67e352]:
+                - rowgroup [ref=f67e353]:
+                  - row [ref=f67e354]:
+                    - cell "rea_discovery_20261028b" [ref=f67e355]
+                    - cell "You" [ref=f67e359]
+                    - cell [ref=f67e360]
+                    - cell [ref=f67e364]
+                  - row [ref=f67e381]:
+                    - cell "rea_discovery_member_20261029" [ref=f67e382]
+                    - cell [ref=f67e386]
+                    - cell [ref=f67e387]
+                    - cell [ref=f67e391]:
+                      - button "Convertir en Administrador" [ref=f67e392] [cursor=pointer]
+                      - button "Quitar a un usuario del equipo" [ref=f67e394] [cursor=pointer]
+          - button "Abandonar equipo" [ref=f67e365] [cursor=pointer]
+        - button "Atajos de Teclado" [ref=f67e367] [cursor=pointer]
+  - status

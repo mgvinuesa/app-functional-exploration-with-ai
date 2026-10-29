@@ -1,0 +1,126 @@
+# observedAt: 2026-10-29T11:33:55Z; rol: usuario autenticado rea_discovery_20261028b; URL: /projects/7/settings/share; búsqueda de cuenta sintética para restaurar permiso directo.
+- generic [ref=f79e1]:
+  - generic [ref=f79e15]:
+    - link "Skip to main content" [ref=f79e16] [cursor=pointer]:
+      - /url: "#main-content"
+    - banner "main navigation" [ref=f79e17]:
+      - link "Vikunja home" [ref=f79e18] [cursor=pointer]:
+        - /url: /
+        - img "Vikunja" [ref=f79e20]
+      - button "Oculta el menú" [expanded] [ref=f79e33] [cursor=pointer]
+      - generic [ref=f79e34]:
+        - generic [ref=f79e35]: REA Inventory Project 20261029
+        - button "Open project settings menu" [ref=f79e37] [cursor=pointer]
+      - generic [ref=f79e41]:
+        - button "Abrir la barra de búsqueda/acción rápida" [ref=f79e42] [cursor=pointer]
+        - button "Notificaciones" [ref=f79e46] [cursor=pointer]
+        - button "rea_discovery_20261028b" [ref=f79e51] [cursor=pointer]
+    - generic [ref=f79e57]:
+      - complementary [ref=f79e59]:
+        - navigation "Main navigation" [ref=f79e60]:
+          - list [ref=f79e61]:
+            - listitem [ref=f79e62]:
+              - link [ref=f79e63] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=f79e67]:
+              - link [ref=f79e68] [cursor=pointer]:
+                - /url: /tasks/by/upcoming
+            - listitem [ref=f79e72]:
+              - link [ref=f79e73] [cursor=pointer]:
+                - /url: /projects
+            - listitem [ref=f79e77]:
+              - link [ref=f79e78] [cursor=pointer]:
+                - /url: /labels
+            - listitem [ref=f79e82]:
+              - link [ref=f79e83] [cursor=pointer]:
+                - /url: /teams
+        - navigation "Saved filters" [ref=f79e87]:
+          - list [ref=f79e88]:
+            - listitem [ref=f79e89]:
+              - generic [ref=f79e90]:
+                - link "My Open Tasks" [ref=f79e91] [cursor=pointer]:
+                  - /url: /projects/-5
+                - button "Mark this project as favorite" [ref=f79e97] [cursor=pointer]
+                - button "Open project settings menu" [ref=f79e102] [cursor=pointer]
+            - listitem [ref=f79e106]:
+              - generic [ref=f79e107]:
+                - link "REA Discovery Synthetic Filter 20261028" [ref=f79e108] [cursor=pointer]:
+                  - /url: /projects/-6
+                - button "Mark this project as favorite" [ref=f79e114] [cursor=pointer]
+                - button "Open project settings menu" [ref=f79e119] [cursor=pointer]
+            - listitem [ref=f79e123]:
+              - generic [ref=f79e124]:
+                - link "REA Inventory Filter 20261029" [ref=f79e125] [cursor=pointer]:
+                  - /url: /projects/-7
+                - button "Mark this project as favorite" [ref=f79e131] [cursor=pointer]
+                - button "Open project settings menu" [ref=f79e136] [cursor=pointer]
+        - navigation "Proyectos" [ref=f79e140]:
+          - list [ref=f79e141]:
+            - listitem [ref=f79e142]:
+              - generic [ref=f79e143]:
+                - link "Bandeja de entrada" [ref=f79e144] [cursor=pointer]:
+                  - /url: /projects/4
+                - button "Mark this project as favorite" [ref=f79e150] [cursor=pointer]
+                - button "Open project settings menu" [ref=f79e155] [cursor=pointer]
+              - list
+            - listitem [ref=f79e159]:
+              - generic [ref=f79e160]:
+                - link "REA Discovery Project 20261028" [ref=f79e161] [cursor=pointer]:
+                  - /url: /projects/5
+                - button "Mark this project as favorite" [ref=f79e167] [cursor=pointer]
+                - button "Open project settings menu" [ref=f79e172] [cursor=pointer]
+              - list
+            - listitem [ref=f79e176]:
+              - generic [ref=f79e177]:
+                - link "REA Discovery Synthetic Project 20261028" [ref=f79e178] [cursor=pointer]:
+                  - /url: /projects/6
+                - button "Mark this project as favorite" [ref=f79e184] [cursor=pointer]
+                - button "Open project settings menu" [ref=f79e189] [cursor=pointer]
+              - list
+            - listitem [ref=f79e193]:
+              - generic [ref=f79e194]:
+                - link "REA Inventory Project 20261029" [ref=f79e195] [cursor=pointer]:
+                  - /url: /projects/7
+                - button "Mark this project as favorite" [ref=f79e201] [cursor=pointer]
+                - button "Open project settings menu" [ref=f79e206] [cursor=pointer]
+              - list
+            - listitem [ref=f79e210]:
+              - generic [ref=f79e211]:
+                - link "REA URL Access Project 20261029" [ref=f79e212] [cursor=pointer]:
+                  - /url: /projects/9
+                - button "Mark this project as favorite" [ref=f79e218] [cursor=pointer]
+                - button "Open project settings menu" [ref=f79e223] [cursor=pointer]
+              - list
+        - link "Con tecnología de Vikunja" [ref=f79e227] [cursor=pointer]:
+          - /url: https://vikunja.io/?utm_source=powered_by&utm_medium=navigation
+      - main [ref=f79e229]:
+        - button "Atajos de Teclado" [ref=f79e230] [cursor=pointer]
+  - dialog "Compartir este proyecto" [ref=f79e234]:
+    - generic [ref=f79e235]:
+      - button "Close dialog" [ref=f79e236] [cursor=pointer]
+      - generic [ref=f79e240]:
+        - banner [ref=f79e241]:
+          - paragraph [ref=f79e242]: Compartir este proyecto
+        - generic [ref=f79e245]:
+          - generic [ref=f79e246]:
+            - heading "Compartido con estos usuarios" [level=3] [ref=f79e247]
+            - generic [ref=f79e249]:
+              - paragraph [ref=f79e250]:
+                - combobox "Search for a usuario to share this project with" [active] [ref=f79e254]: rea_discovery_member_20261029
+              - paragraph [ref=f79e255]:
+                - button "Compartir" [disabled]
+            - paragraph [ref=f79e256]: No compartido con ningún usuarios todavía.
+          - generic [ref=f79e257]:
+            - heading "Compartido con estos equipos" [level=3] [ref=f79e258]
+            - generic [ref=f79e260]:
+              - paragraph [ref=f79e261]:
+                - combobox "Search for a equipo to share this project with" [ref=f79e265]
+              - paragraph [ref=f79e266]:
+                - button "Compartir" [disabled]
+            - paragraph [ref=f79e313]: No compartido con ningún equipos todavía.
+          - generic [ref=f79e283]:
+            - heading "Compartir Enlaces ¿Qué es un enlace compartido?" [level=3] [ref=f79e284]
+            - button "Create a link share" [ref=f79e286] [cursor=pointer]
+        - contentinfo [ref=f79e291]:
+          - button "Cancelar" [ref=f79e292] [cursor=pointer]
+    - status

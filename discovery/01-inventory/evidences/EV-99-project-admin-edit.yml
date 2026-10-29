@@ -1,0 +1,137 @@
+# observedAt: 2026-10-29T11:04:06Z; rol: usuario autenticado rea_discovery_member_20261029, permiso de proyecto Admin; URL: /projects/7/settings/edit; formulario inspeccionado sin guardar.
+- generic [ref=f4e1]:
+  - generic [ref=f4e15]:
+    - link "Skip to main content" [ref=f4e16] [cursor=pointer]:
+      - /url: "#main-content"
+    - banner "main navigation" [ref=f4e17]:
+      - link "Vikunja home" [ref=f4e18] [cursor=pointer]:
+        - /url: /
+        - img "Vikunja" [ref=f4e20]
+      - button "Oculta el menú" [expanded] [ref=f4e33] [cursor=pointer]
+      - generic [ref=f4e34]:
+        - generic [ref=f4e35]: REA Inventory Project 20261029
+        - generic [ref=f4e36]:
+          - button "Open project settings menu" [expanded] [ref=f4e37] [cursor=pointer]
+          - generic [ref=f4e222]:
+            - link "Editar" [ref=f4e223] [cursor=pointer]:
+              - /url: /projects/7/settings/edit
+            - link "Views" [ref=f4e228] [cursor=pointer]:
+              - /url: /projects/7/settings/views
+            - link "Background settings" [ref=f4e233] [cursor=pointer]:
+              - /url: /projects/7/settings/background
+            - link "Compartir" [ref=f4e238] [cursor=pointer]:
+              - /url: /projects/7/settings/share
+            - link "Duplicar" [ref=f4e243] [cursor=pointer]:
+              - /url: /projects/7/settings/duplicate
+            - link "Archivar" [ref=f4e248] [cursor=pointer]:
+              - /url: /projects/7/settings/archive
+            - button "Suscribirse" [ref=f4e253] [cursor=pointer]
+            - link "Webhooks" [ref=f4e258] [cursor=pointer]:
+              - /url: /projects/7/settings/webhooks
+            - link "Crear proyecto" [ref=f4e263] [cursor=pointer]:
+              - /url: /projects/7/new
+            - link "Eliminar" [ref=f4e268] [cursor=pointer]:
+              - /url: /projects/7/settings/delete
+      - generic [ref=f4e41]:
+        - button "Abrir la barra de búsqueda/acción rápida" [ref=f4e42] [cursor=pointer]
+        - button "Notificaciones" [ref=f4e46] [cursor=pointer]
+        - button "rea_discovery_member_20261029" [ref=f4e52] [cursor=pointer]
+    - generic [ref=f4e58]:
+      - complementary [ref=f4e60]:
+        - navigation "Main navigation" [ref=f4e61]:
+          - list [ref=f4e62]:
+            - listitem [ref=f4e63]:
+              - link [ref=f4e64] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=f4e68]:
+              - link [ref=f4e69] [cursor=pointer]:
+                - /url: /tasks/by/upcoming
+            - listitem [ref=f4e73]:
+              - link [ref=f4e74] [cursor=pointer]:
+                - /url: /projects
+            - listitem [ref=f4e78]:
+              - link [ref=f4e79] [cursor=pointer]:
+                - /url: /labels
+            - listitem [ref=f4e83]:
+              - link [ref=f4e84] [cursor=pointer]:
+                - /url: /teams
+        - navigation "Saved filters" [ref=f4e88]:
+          - list [ref=f4e89]:
+            - listitem [ref=f4e90]:
+              - generic [ref=f4e91]:
+                - link "My Open Tasks" [ref=f4e92] [cursor=pointer]:
+                  - /url: /projects/-8
+                - button "Mark this project as favorite" [ref=f4e98] [cursor=pointer]
+                - button "Open project settings menu" [ref=f4e103] [cursor=pointer]
+        - navigation "Proyectos" [ref=f4e107]:
+          - list [ref=f4e108]:
+            - listitem [ref=f4e109]:
+              - generic [ref=f4e110]:
+                - link "REA Inventory Project 20261029" [ref=f4e111] [cursor=pointer]:
+                  - /url: /projects/7
+                - button "Mark this project as favorite" [ref=f4e117] [cursor=pointer]
+                - button "Open project settings menu" [ref=f4e122] [cursor=pointer]
+              - list
+            - listitem [ref=f4e126]:
+              - generic [ref=f4e127]:
+                - link "Bandeja de entrada" [ref=f4e128] [cursor=pointer]:
+                  - /url: /projects/8
+                - button "Mark this project as favorite" [ref=f4e134] [cursor=pointer]
+                - button "Open project settings menu" [ref=f4e139] [cursor=pointer]
+              - list
+        - link "Con tecnología de Vikunja" [ref=f4e143] [cursor=pointer]:
+          - /url: https://vikunja.io/?utm_source=powered_by&utm_medium=navigation
+      - main [ref=f4e145]:
+        - button "Atajos de Teclado" [ref=f4e217] [cursor=pointer]
+  - dialog "Editar este Proyecto" [ref=f4e273]:
+    - generic [ref=f4e274]:
+      - button "Close dialog" [active] [ref=f4e275] [cursor=pointer]
+      - generic [ref=f4e279]:
+        - banner [ref=f4e280]:
+          - paragraph [ref=f4e281]: Editar este Proyecto
+        - generic [ref=f4e284]:
+          - generic [ref=f4e285]:
+            - generic [ref=f4e286]: Title
+            - textbox "Title" [ref=f4e288]:
+              - /placeholder: El título del proyecto va aquí…
+              - text: REA Inventory Project 20261029
+          - generic [ref=f4e289]:
+            - generic [ref=f4e290]: Proyecto principal
+            - combobox "Escribe para buscar un proyecto…" [ref=f4e295]
+          - generic [ref=f4e296]:
+            - generic [ref=f4e297]: Descripción
+            - generic [ref=f4e300]:
+              - toolbar "Text formatting" [ref=f4e301]:
+                - generic [ref=f4e302]:
+                  - button "Encabezado 1" [ref=f4e303] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f4e307]: "1"
+                  - button "Encabezado 2" [ref=f4e309] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f4e313]: "2"
+                  - button "Encabezado 3" [ref=f4e315] [cursor=pointer]:
+                    - generic [aria-hidden] [ref=f4e319]: "3"
+                  - button "Negrita" [ref=f4e321] [cursor=pointer]
+                  - button "Cursiva" [ref=f4e326] [cursor=pointer]
+                  - button "Underline" [ref=f4e331] [cursor=pointer]
+                  - button "Tachado" [ref=f4e336] [cursor=pointer]
+                  - button "Código" [ref=f4e341] [cursor=pointer]
+                  - button "Cita" [ref=f4e346] [cursor=pointer]
+                  - button "Bullet list" [ref=f4e351] [cursor=pointer]
+                  - button "Ordered list" [ref=f4e356] [cursor=pointer]
+                  - button "Task list" [ref=f4e361] [cursor=pointer]
+                  - button "Imagen" [ref=f4e366] [cursor=pointer]
+                - button "More formatting options" [ref=f4e372] [cursor=pointer]
+              - generic "Enter a description for this project, hit '/' for more options…" [ref=f4e378]:
+                - paragraph [ref=f4e379]: Enter a description for this project, hit '/' for more options…
+          - generic [ref=f4e380]:
+            - generic [ref=f4e382]:
+              - generic [ref=f4e383]: Identificador del proyecto
+              - textbox "Identificador del proyecto" [ref=f4e385]:
+                - /placeholder: El identificador del proyecto va aquí…
+            - generic [ref=f4e387]:
+              - generic [ref=f4e388]: Color
+              - textbox "Project color" [ref=f4e392]: "#000000"
+        - contentinfo [ref=f4e393]:
+          - button "Eliminar" [ref=f4e394] [cursor=pointer]
+          - button "Cancelar" [ref=f4e396] [cursor=pointer]
+          - button "Guardar" [ref=f4e398] [cursor=pointer]
+    - status

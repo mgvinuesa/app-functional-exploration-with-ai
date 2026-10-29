@@ -1,0 +1,101 @@
+- generic [ref=f15e1]:
+  - generic [ref=f15e15]:
+    - link "Skip to main content" [ref=f15e16] [cursor=pointer]:
+      - /url: "#main-content"
+    - banner "main navigation" [ref=f15e17]:
+      - link "Vikunja home" [ref=f15e18] [cursor=pointer]:
+        - /url: /
+        - img "Vikunja" [ref=f15e20]
+      - button "Oculta el menú" [expanded] [ref=f15e33] [cursor=pointer]
+      - generic [ref=f15e34]:
+        - generic [ref=f15e35]: REA Inventory Project 20261029
+        - button "Open project settings menu" [ref=f15e37] [cursor=pointer]
+      - generic [ref=f15e41]:
+        - button "Abrir la barra de búsqueda/acción rápida" [ref=f15e42] [cursor=pointer]
+        - button "Notificaciones" [ref=f15e46] [cursor=pointer]
+        - button "rea_discovery_20261028b" [ref=f15e51] [cursor=pointer]
+    - generic [ref=f15e57]:
+      - complementary [ref=f15e59]:
+        - navigation "Main navigation" [ref=f15e60]:
+          - list [ref=f15e61]:
+            - listitem [ref=f15e62]:
+              - link "Resumen" [ref=f15e63] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=f15e67]:
+              - link "Próximas" [ref=f15e68] [cursor=pointer]:
+                - /url: /tasks/by/upcoming
+            - listitem [ref=f15e72]:
+              - link "Proyectos" [ref=f15e73] [cursor=pointer]:
+                - /url: /projects
+            - listitem [ref=f15e77]:
+              - link "Etiquetas" [ref=f15e78] [cursor=pointer]:
+                - /url: /labels
+            - listitem [ref=f15e82]:
+              - link "Equipos" [ref=f15e83] [cursor=pointer]:
+                - /url: /teams
+        - navigation "Saved filters" [ref=f15e87]:
+          - list [ref=f15e88]:
+            - listitem [ref=f15e89]:
+              - generic [ref=f15e90]:
+                - link "My Open Tasks" [ref=f15e91] [cursor=pointer]:
+                  - /url: /projects/-5
+                - button "Mark this project as favorite" [ref=f15e97] [cursor=pointer]
+                - button "Open project settings menu" [ref=f15e102] [cursor=pointer]
+            - listitem [ref=f15e106]:
+              - generic [ref=f15e107]:
+                - link "REA Discovery Synthetic Filter 20261028" [ref=f15e108] [cursor=pointer]:
+                  - /url: /projects/-6
+                - button "Mark this project as favorite" [ref=f15e114] [cursor=pointer]
+                - button "Open project settings menu" [ref=f15e119] [cursor=pointer]
+        - navigation "Proyectos" [ref=f15e123]:
+          - list [ref=f15e124]:
+            - listitem [ref=f15e125]:
+              - generic [ref=f15e126]:
+                - link "Bandeja de entrada" [ref=f15e127] [cursor=pointer]:
+                  - /url: /projects/4
+                - button "Mark this project as favorite" [ref=f15e133] [cursor=pointer]
+                - button "Open project settings menu" [ref=f15e138] [cursor=pointer]
+              - list
+            - listitem [ref=f15e142]:
+              - generic [ref=f15e143]:
+                - link "REA Discovery Project 20261028" [ref=f15e144] [cursor=pointer]:
+                  - /url: /projects/5
+                - button "Mark this project as favorite" [ref=f15e150] [cursor=pointer]
+                - button "Open project settings menu" [ref=f15e155] [cursor=pointer]
+              - list
+            - listitem [ref=f15e159]:
+              - generic [ref=f15e160]:
+                - link "REA Discovery Synthetic Project 20261028" [ref=f15e161] [cursor=pointer]:
+                  - /url: /projects/6
+                - button "Mark this project as favorite" [ref=f15e167] [cursor=pointer]
+                - button "Open project settings menu" [ref=f15e172] [cursor=pointer]
+              - list
+            - listitem [ref=f15e176]:
+              - generic [ref=f15e177]:
+                - link "REA Inventory Project 20261029" [ref=f15e178] [cursor=pointer]:
+                  - /url: /projects/7
+                - button "Mark this project as favorite" [ref=f15e184] [cursor=pointer]
+                - button "Open project settings menu" [ref=f15e189] [cursor=pointer]
+              - list
+        - link "Con tecnología de Vikunja" [ref=f15e193] [cursor=pointer]:
+          - /url: https://vikunja.io/?utm_source=powered_by&utm_medium=navigation
+      - main [ref=f15e195]:
+        - generic [ref=f15e196]:
+          - generic [ref=f15e202]:
+            - generic [ref=f15e203]:
+              - generic [ref=f15e204]: Date range
+              - button "Date range" [ref=f15e207] [cursor=pointer]:
+                - generic [ref=f15e208]: 14 de oct de 2026 – 23 de dic de 2026
+            - generic [ref=f15e210] [cursor=pointer]:
+              - checkbox "Checkbox Show tasks without date" [ref=f15e211]
+              - img "Checkbox" [ref=f15e212]
+              - generic [ref=f15e215]: Show tasks without date
+          - generic [ref=f15e219]:
+            - application "Project Gantt Chart" [ref=f15e220]:
+              - generic [ref=f15e221]:
+                - columnheader "Timeline header with months and days" [ref=f15e222]
+                - grid
+            - button "Create a task" [ref=f15e513] [cursor=pointer]
+        - button "Atajos de Teclado" [ref=f15e518] [cursor=pointer]
+    - paragraph [ref=f15e14]: Vikunja está cargando…
+  - status

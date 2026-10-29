@@ -1,0 +1,4 @@
+name = "inventory_auditor"
+description = "Audita el inventario funcional sin navegar por la aplicación."
+model = "gpt-6-sol"
+model_reasoning_effort = "medium"

@@ -1,0 +1,93 @@
+{
+  "observedAt": "2026-10-29T09:34:01.586Z",
+  "role": "Usuario autenticado rea_discovery_20261028b; sin rol global visible en la UI",
+  "url": "/user/settings/feeds",
+  "title": "Atom Feed - Ajustes | Vikunja",
+  "headings": [],
+  "labels": [
+    "Atom Feed",
+    "You can subscribe to your Vikunja notifications from any Atom-compatible feed reader. Use the following URL:",
+    "Your username for the feed is: rea_discovery_20261028b",
+    "Authenticate with an API token that has the feeds:access permission. Create one in API Tokens."
+  ],
+  "buttons": [
+    "Close sidebar",
+    "Copiar al portapapeles",
+    "Atajos de Teclado"
+  ],
+  "links": [
+    {
+      "text": "Ajustes Generales",
+      "path": "/user/settings/general"
+    },
+    {
+      "text": "Actualiza tu contraseña",
+      "path": "/user/settings/password-update"
+    },
+    {
+      "text": "Actualiza tu Dirección de Correo Electrónico",
+      "path": "/user/settings/email-update"
+    },
+    {
+      "text": "Avatar",
+      "path": "/user/settings/avatar"
+    },
+    {
+      "text": "Autenticación de dos factores",
+      "path": "/user/settings/totp"
+    },
+    {
+      "text": "Exportar tus datos de Vikunja",
+      "path": "/user/settings/data-export"
+    },
+    {
+      "text": "Importar desde otros servicios",
+      "path": "/user/settings/migrate"
+    },
+    {
+      "text": "CalDAV",
+      "path": "/user/settings/caldav"
+    },
+    {
+      "text": "MCP",
+      "path": "/user/settings/mcp"
+    },
+    {
+      "text": "Atom Feed",
+      "path": "/user/settings/feeds"
+    },
+    {
+      "text": "API Tokens",
+      "path": "/user/settings/api-tokens"
+    },
+    {
+      "text": "Sessions",
+      "path": "/user/settings/sessions"
+    },
+    {
+      "text": "Webhook Notifications",
+      "path": "/user/settings/webhooks"
+    },
+    {
+      "text": "Bot Users",
+      "path": "/user/settings/bots"
+    },
+    {
+      "text": "Eliminar tu Cuenta de Vikunja",
+      "path": "/user/settings/deletion"
+    },
+    {
+      "text": "API Tokens",
+      "path": "/user/settings/api-tokens"
+    }
+  ],
+  "fields": [
+    {
+      "type": "text",
+      "name": "",
+      "placeholder": "",
+      "label": ""
+    }
+  ],
+  "visibleText": "Ajustes Generales\nActualiza tu contraseña\nActualiza tu Dirección de Correo Electrónico\nAvatar\nAutenticación de dos factores\nExportar tus datos de Vikunja\nImportar desde otros servicios\nCalDAV\nMCP\nAtom Feed\nAPI Tokens\nSessions\nWebhook Notifications\nBot Users\nEliminar tu Cuenta de Vikunja\n\nAtom Feed\n\nYou can subscribe to your Vikunja notifications from any Atom-compatible feed reader. Use the following URL:\n\nYour username for the feed is: rea_discovery_20261028b\n\nAuthenticate with an API token that has the feeds:access permission. Create one in API Tokens.\n\nAtajos de Teclado"
+}

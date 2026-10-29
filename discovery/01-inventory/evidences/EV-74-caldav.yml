@@ -1,0 +1,99 @@
+{
+  "observedAt": "2026-10-29T09:33:49.633Z",
+  "role": "Usuario autenticado rea_discovery_20261028b; sin rol global visible en la UI",
+  "url": "/user/settings/caldav",
+  "title": "CalDAV - Ajustes | Vikunja",
+  "headings": [],
+  "labels": [
+    "CalDAV",
+    "You can connect Vikunja to CalDAV clients to view and manage all your tasks from different clients. Enter this URL into your client:",
+    "For CalDAV authentication you can use either your normal account password or a dedicated CalDAV token.\nYour username for CalDAV is: rea_discovery_20261028b",
+    "You can also use an API token with CalDAV permission. Create one in API Tokens.",
+    "Más información sobre CalDAV en Vikunja"
+  ],
+  "buttons": [
+    "Close sidebar",
+    "Copiar al portapapeles",
+    "CREATE A CALDAV TOKEN",
+    "Atajos de Teclado"
+  ],
+  "links": [
+    {
+      "text": "Ajustes Generales",
+      "path": "/user/settings/general"
+    },
+    {
+      "text": "Actualiza tu contraseña",
+      "path": "/user/settings/password-update"
+    },
+    {
+      "text": "Actualiza tu Dirección de Correo Electrónico",
+      "path": "/user/settings/email-update"
+    },
+    {
+      "text": "Avatar",
+      "path": "/user/settings/avatar"
+    },
+    {
+      "text": "Autenticación de dos factores",
+      "path": "/user/settings/totp"
+    },
+    {
+      "text": "Exportar tus datos de Vikunja",
+      "path": "/user/settings/data-export"
+    },
+    {
+      "text": "Importar desde otros servicios",
+      "path": "/user/settings/migrate"
+    },
+    {
+      "text": "CalDAV",
+      "path": "/user/settings/caldav"
+    },
+    {
+      "text": "MCP",
+      "path": "/user/settings/mcp"
+    },
+    {
+      "text": "Atom Feed",
+      "path": "/user/settings/feeds"
+    },
+    {
+      "text": "API Tokens",
+      "path": "/user/settings/api-tokens"
+    },
+    {
+      "text": "Sessions",
+      "path": "/user/settings/sessions"
+    },
+    {
+      "text": "Webhook Notifications",
+      "path": "/user/settings/webhooks"
+    },
+    {
+      "text": "Bot Users",
+      "path": "/user/settings/bots"
+    },
+    {
+      "text": "Eliminar tu Cuenta de Vikunja",
+      "path": "/user/settings/deletion"
+    },
+    {
+      "text": "API Tokens",
+      "path": "/user/settings/api-tokens"
+    },
+    {
+      "text": "Más información sobre CalDAV en Vikunja",
+      "path": "/docs/caldav/"
+    }
+  ],
+  "fields": [
+    {
+      "type": "text",
+      "name": "",
+      "placeholder": "",
+      "label": ""
+    }
+  ],
+  "visibleText": "Ajustes Generales\nActualiza tu contraseña\nActualiza tu Dirección de Correo Electrónico\nAvatar\nAutenticación de dos factores\nExportar tus datos de Vikunja\nImportar desde otros servicios\nCalDAV\nMCP\nAtom Feed\nAPI Tokens\nSessions\nWebhook Notifications\nBot Users\nEliminar tu Cuenta de Vikunja\n\nCalDAV\n\nYou can connect Vikunja to CalDAV clients to view and manage all your tasks from different clients. Enter this URL into your client:\n\nTokens CalDAV\n\nFor CalDAV authentication you can use either your normal account password or a dedicated CalDAV token.\nYour username for CalDAV is: rea_discovery_20261028b\n\nYou can also use an API token with CalDAV permission. Create one in API Tokens.\n\nCREATE A CALDAV TOKEN\n\nMás información sobre CalDAV en Vikunja\n\nAtajos de Teclado"
+}

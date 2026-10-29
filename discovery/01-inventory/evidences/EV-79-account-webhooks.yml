@@ -1,0 +1,124 @@
+{
+  "observedAt": "2026-10-29T09:34:23.579Z",
+  "role": "Usuario autenticado rea_discovery_20261028b; sin rol global visible en la UI",
+  "url": "/user/settings/webhooks",
+  "title": "Webhook Notifications - Ajustes | Vikunja",
+  "headings": [],
+  "labels": [
+    "Webhook Notifications",
+    "Configure webhook URLs to receive POST requests when reminder or overdue events fire. These webhooks receive events from all your projects.",
+    "Target URL",
+    "Secret",
+    "If provided, all requests to the webhook target URL will be signed using HMAC. Check out the docs for more details about how to use secrets.",
+    "Events",
+    "Select all events this webhook should receive updates for (within the current project).",
+    "task.overdue",
+    "task.reminder.fired",
+    "tasks.overdue"
+  ],
+  "buttons": [
+    "Close sidebar",
+    "Use Basic Auth?",
+    "CREATE WEBHOOK",
+    "Atajos de Teclado"
+  ],
+  "links": [
+    {
+      "text": "Ajustes Generales",
+      "path": "/user/settings/general"
+    },
+    {
+      "text": "Actualiza tu contraseña",
+      "path": "/user/settings/password-update"
+    },
+    {
+      "text": "Actualiza tu Dirección de Correo Electrónico",
+      "path": "/user/settings/email-update"
+    },
+    {
+      "text": "Avatar",
+      "path": "/user/settings/avatar"
+    },
+    {
+      "text": "Autenticación de dos factores",
+      "path": "/user/settings/totp"
+    },
+    {
+      "text": "Exportar tus datos de Vikunja",
+      "path": "/user/settings/data-export"
+    },
+    {
+      "text": "Importar desde otros servicios",
+      "path": "/user/settings/migrate"
+    },
+    {
+      "text": "CalDAV",
+      "path": "/user/settings/caldav"
+    },
+    {
+      "text": "MCP",
+      "path": "/user/settings/mcp"
+    },
+    {
+      "text": "Atom Feed",
+      "path": "/user/settings/feeds"
+    },
+    {
+      "text": "API Tokens",
+      "path": "/user/settings/api-tokens"
+    },
+    {
+      "text": "Sessions",
+      "path": "/user/settings/sessions"
+    },
+    {
+      "text": "Webhook Notifications",
+      "path": "/user/settings/webhooks"
+    },
+    {
+      "text": "Bot Users",
+      "path": "/user/settings/bots"
+    },
+    {
+      "text": "Eliminar tu Cuenta de Vikunja",
+      "path": "/user/settings/deletion"
+    },
+    {
+      "text": "Check out the docs for more details about how to use secrets.",
+      "path": "/docs/webhooks/"
+    }
+  ],
+  "fields": [
+    {
+      "type": "text",
+      "name": "",
+      "placeholder": "Target URL",
+      "label": "Target URL"
+    },
+    {
+      "type": "text",
+      "name": "",
+      "placeholder": "",
+      "label": "Secret"
+    },
+    {
+      "type": "checkbox",
+      "name": "",
+      "placeholder": "",
+      "label": "task.overdue"
+    },
+    {
+      "type": "checkbox",
+      "name": "",
+      "placeholder": "",
+      "label": "task.reminder.fired"
+    },
+    {
+      "type": "checkbox",
+      "name": "",
+      "placeholder": "",
+      "label": "tasks.overdue"
+    }
+  ],
+  "visibleText": "Ajustes Generales\nActualiza tu contraseña\nActualiza tu Dirección de Correo Electrónico\nAvatar\nAutenticación de dos factores\nExportar tus datos de Vikunja\nImportar desde otros servicios\nCalDAV\nMCP\nAtom Feed\nAPI Tokens\nSessions\nWebhook Notifications\nBot Users\nEliminar tu Cuenta de Vikunja\n\nWebhook Notifications\n\nConfigure webhook URLs to receive POST requests when reminder or overdue events fire. These webhooks receive events from all your projects.\n\nTarget URL\nSecret\n\nIf provided, all requests to the webhook target URL will be signed using HMAC. Check out the docs for more details about how to use secrets.\n\nUse Basic Auth?\nEvents\n\nSelect all events this webhook should receive updates for (within the current project).\n\ntask.overdue\ntask.reminder.fired\ntasks.overdue\nCREATE WEBHOOK\nAtajos de Teclado"
+}

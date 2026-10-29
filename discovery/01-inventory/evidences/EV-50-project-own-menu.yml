@@ -1,0 +1,114 @@
+- generic [ref=f43e1]:
+  - generic [ref=f43e15]:
+    - link "Skip to main content" [ref=f43e16] [cursor=pointer]:
+      - /url: "#main-content"
+    - banner "main navigation" [ref=f43e17]:
+      - link "Vikunja home" [ref=f43e18] [cursor=pointer]:
+        - /url: /
+        - img "Vikunja" [ref=f43e20]
+      - button "Oculta el menú" [expanded] [ref=f43e33] [cursor=pointer]
+      - generic [ref=f43e34]:
+        - generic [ref=f43e35]: REA Inventory Project 20261029
+        - button "Open project settings menu" [ref=f43e37] [cursor=pointer]
+      - generic [ref=f43e41]:
+        - button "Abrir la barra de búsqueda/acción rápida" [ref=f43e42] [cursor=pointer]
+        - button "Notificaciones" [ref=f43e46] [cursor=pointer]
+        - button "rea_discovery_20261028b" [ref=f43e51] [cursor=pointer]
+    - generic [ref=f43e57]:
+      - complementary [ref=f43e59]:
+        - navigation "Main navigation" [ref=f43e60]:
+          - list [ref=f43e61]:
+            - listitem [ref=f43e62]:
+              - link [ref=f43e63] [cursor=pointer]:
+                - /url: /
+            - listitem [ref=f43e67]:
+              - link [ref=f43e68] [cursor=pointer]:
+                - /url: /tasks/by/upcoming
+            - listitem [ref=f43e72]:
+              - link [ref=f43e73] [cursor=pointer]:
+                - /url: /projects
+            - listitem [ref=f43e77]:
+              - link [ref=f43e78] [cursor=pointer]:
+                - /url: /labels
+            - listitem [ref=f43e82]:
+              - link [ref=f43e83] [cursor=pointer]:
+                - /url: /teams
+        - navigation "Saved filters" [ref=f43e87]:
+          - list [ref=f43e88]:
+            - listitem [ref=f43e89]:
+              - generic [ref=f43e90]:
+                - link "My Open Tasks" [ref=f43e91] [cursor=pointer]:
+                  - /url: /projects/-5
+                - button "Mark this project as favorite" [ref=f43e97] [cursor=pointer]
+                - button "Open project settings menu" [ref=f43e102] [cursor=pointer]
+            - listitem [ref=f43e106]:
+              - generic [ref=f43e107]:
+                - link "REA Discovery Synthetic Filter 20261028" [ref=f43e108] [cursor=pointer]:
+                  - /url: /projects/-6
+                - button "Mark this project as favorite" [ref=f43e114] [cursor=pointer]
+                - button "Open project settings menu" [ref=f43e119] [cursor=pointer]
+            - listitem [ref=f43e123]:
+              - generic [ref=f43e124]:
+                - link "REA Inventory Filter 20261029" [ref=f43e125] [cursor=pointer]:
+                  - /url: /projects/-7
+                - button "Mark this project as favorite" [ref=f43e131] [cursor=pointer]
+                - button "Open project settings menu" [ref=f43e136] [cursor=pointer]
+        - navigation "Proyectos" [ref=f43e140]:
+          - list [ref=f43e141]:
+            - listitem [ref=f43e142]:
+              - generic [ref=f43e143]:
+                - link "Bandeja de entrada" [ref=f43e144] [cursor=pointer]:
+                  - /url: /projects/4
+                - button "Mark this project as favorite" [ref=f43e150] [cursor=pointer]
+                - button "Open project settings menu" [ref=f43e155] [cursor=pointer]
+              - list
+            - listitem [ref=f43e159]:
+              - generic [ref=f43e160]:
+                - link "REA Discovery Project 20261028" [ref=f43e161] [cursor=pointer]:
+                  - /url: /projects/5
+                - button "Mark this project as favorite" [ref=f43e167] [cursor=pointer]
+                - button "Open project settings menu" [ref=f43e172] [cursor=pointer]
+              - list
+            - listitem [ref=f43e176]:
+              - generic [ref=f43e177]:
+                - link "REA Discovery Synthetic Project 20261028" [ref=f43e178] [cursor=pointer]:
+                  - /url: /projects/6
+                - button "Mark this project as favorite" [ref=f43e184] [cursor=pointer]
+                - button "Open project settings menu" [ref=f43e189] [cursor=pointer]
+              - list
+            - listitem [ref=f43e193]:
+              - generic [ref=f43e194]:
+                - link "REA Inventory Project 20261029" [ref=f43e195] [cursor=pointer]:
+                  - /url: /projects/7
+                - button "Mark this project as favorite" [ref=f43e201] [cursor=pointer]
+                - button "Open project settings menu" [ref=f43e206] [cursor=pointer]
+              - list
+        - link "Con tecnología de Vikunja" [ref=f43e210] [cursor=pointer]:
+          - /url: https://vikunja.io/?utm_source=powered_by&utm_medium=navigation
+      - main [ref=f43e212]:
+        - generic [ref=f43e213]:
+          - generic [ref=f43e216]:
+            - button "Sort" [ref=f43e217] [cursor=pointer]
+            - button "Filtros" [ref=f43e222] [cursor=pointer]
+          - generic [ref=f43e230]:
+            - generic [ref=f43e232]:
+              - paragraph [ref=f43e233]:
+                - generic [ref=f43e234]: Add a task…
+                - textbox "Add a task…" [ref=f43e238]
+                - button "Usar prefijos mágicos para definir fechas de vencimiento, asignados y otras propiedades de tareas." [ref=f43e239] [cursor=pointer]
+              - paragraph [ref=f43e242]:
+                - button "Añadir" [disabled]
+            - list [ref=f43e243]:
+              - generic [ref=f43e245]:
+                - generic [ref=f43e248] [cursor=pointer]:
+                  - checkbox "Mark 'REA Inventory Task 20261029' as done" [ref=f43e249]
+                  - img "Checkbox" [ref=f43e250]
+                - generic [ref=f43e253]:
+                  - link "REA Inventory Task 20261029" [ref=f43e256] [cursor=pointer]:
+                    - /url: /tasks/5
+                  - button [ref=f43e257] [cursor=pointer]:
+                    - time [ref=f43e258]: – Vence en un día
+                - button "Añadir a Favoritos" [ref=f43e259] [cursor=pointer]
+        - button "Atajos de Teclado" [ref=f43e263] [cursor=pointer]
+    - paragraph [ref=f43e14]: Vikunja está cargando…
+  - status
